@@ -5,6 +5,7 @@ plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-image-size
 
 exclude:
   - "/vendor/"
@@ -122,7 +123,7 @@ social:
     username: mysmilesh
     url:
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube

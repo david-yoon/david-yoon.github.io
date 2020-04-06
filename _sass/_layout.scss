@@ -249,7 +249,7 @@ pre code.hljs {
 	img {
 		display: block;
 		margin: auto;
-		width: 90%;
+		width: 100%;
 	}
 	/*
 	*	Posts
@@ -339,9 +339,10 @@ pre code.hljs {
 			}
 		}
 		.profile {
-			max-width: 320px;
+			max-width: 230px;
 			margin: auto;
-			padding-bottom: 0.5em;
+			padding-top: 1.5em;
+			padding-bottom: 1.5em;
  		}
 	}
 }

@@ -1,1 +1,1 @@
-jekyll serve -H 147.46.89.75
+jekyll serve -H 0.0.0.0 

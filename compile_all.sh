@@ -2,6 +2,7 @@
 
 cd resource/
 python compile_papers.py
+python compile_patents.py
 
 cd ..
 

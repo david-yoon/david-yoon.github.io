@@ -12,6 +12,8 @@ body += '''<hr>
   <font size="2">
 '''
 
+item = ""
+
 current_year = 0
 
 for index, row in df.iterrows():
@@ -19,12 +21,11 @@ for index, row in df.iterrows():
     if type(row["year"]) == float:
         continue
     
+    # add year
     if current_year != row["year"]:
-        item = "  <h4><strong>[{}]</strong></h4>\n".format(row["year"])
+        item += "  <h4><strong>[{}]</strong></h4>\n".format(row["year"])
         current_year = row["year"]
-        body += item        
 
-    item = ""
     item += "\t<li>\n"
 
     # add title
@@ -53,15 +54,15 @@ for index, row in df.iterrows():
 
     # add authors
     item += "\t\t<br><i>{}</i>\n".format(row["authors"].replace("Seunghyun Yoon", "<u>Seunghyun Yoon</u>").replace("S Yoon", "<u>S Yoon</u>"))
+    
+    # add venue
     item += "\t\t<br><a href=\"{}\">{}</a>\n".format(row["conference_url"], row["conference"])
 
     item += "\t\t<p>\n"
     item += "\t</li>\n"
 
-    body += item
 
-
-
+body += item
 body += "  </font>\n"
 body += "</ol>\n"
 

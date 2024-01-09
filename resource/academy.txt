@@ -4,9 +4,9 @@
 <h3>Academic Activities</h3>
 <ul style="line-height:1.4em">
   <li>
-	<strong><font color=darkblue>Service: </font></strong> <br>
-	<strong>Program Committee</strong>, NAACL (2019, 2021), ACL (2020, 2021), EMNLP (2019, 2020, 2021, 2022), AACL (2020, 2022), EACL (2021, 2023), COLING (2022) <br>
-    <strong>Program Committee</strong>, AAAI (2020, 2021, 2022, 2023), WWW (2021), INTERSPEECH (2019) <br>
+	  <strong><font color=darkblue>Service: </font></strong> <br>
+	  <strong>Program Committee</strong>, NAACL (since 2019), ACL (since 2020), EMNLP (since 2019), AACL (since 2020), EACL (since 2021), COLING (since 2022), LREC (since 2023), ARR (since 2022) <br>
+    <strong>Program Committee</strong>, AAAI (since 2020), WWW (since 2021), INTERSPEECH (2019), ICLR (since 2023) <br>
     <strong>Journal Reviewer</strong>, Information Processing and Management, 2020 <br>
     <strong>Journal Reviewer</strong>, IEEE Signal Processing Letters, 2020 <br>
     <br>

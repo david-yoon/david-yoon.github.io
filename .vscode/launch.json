@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File p39",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                // "--start_idx",
+                // "0",
+                // "--end_idx",
+                // "2"
+            ],
+            "python": "/home/syoon/anaconda3/envs/p39/bin/python"
+            // "env": {
+            //     "PYTHONPATH": "$PYTHONPATH:/home/syoon/workspace/github/david-yoon.github.io/resource/"
+            // }
+        }
+    ]
+}

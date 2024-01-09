@@ -1,0 +1,32 @@
+
+
+<hr>
+
+<h3>Professional Experiences</h3>
+<ul style="line-height:1.4em">
+	<li><font size="2">
+	<strong><font color=darkblue>NLP Research Scientist: </font></strong>
+	Adobe Research (San Jose, CA, US),
+	2020-present
+  </li>
+  <li><font size="2">
+	<strong><font color=darkblue>Research Scientist Intern: </font></strong>
+	Adobe Research (San Jose, CA, US),
+	Fall 2018 
+  </li>
+  <li>
+	<strong><font color=darkblue>Staff Engineer: </font></strong>
+	Samsung Research (Seoul, KR),
+	2006-2017
+  </li>
+  <li>
+	<strong><font color=darkblue>Representative of employees: </font></strong>
+	Samsung Electronics (Seoul, KR),
+	2012-2014
+  </li>
+  <li>
+	<strong><font color=darkblue>Trainer of Global New Employee Course: </font></strong>
+	Samsung Electronics (Seoul, KR),
+	Spring 2011 
+  </li></font></ul>
+</ol>

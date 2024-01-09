@@ -1,0 +1,41 @@
+    
+<hr>
+
+<h3>Academic Activities</h3>
+<ul style="line-height:1.4em">
+  <li>
+	<strong><font color=darkblue>Service: </font></strong> <br>
+	<strong>Program Committee</strong>, NAACL (2019, 2021), ACL (2020, 2021), EMNLP (2019, 2020, 2021, 2022), AACL (2020, 2022), EACL (2021, 2023), COLING (2022) <br>
+    <strong>Program Committee</strong>, AAAI (2020, 2021, 2022, 2023), WWW (2021), INTERSPEECH (2019) <br>
+    <strong>Journal Reviewer</strong>, Information Processing and Management, 2020 <br>
+    <strong>Journal Reviewer</strong>, IEEE Signal Processing Letters, 2020 <br>
+    <br>
+  </li>
+  <li>
+	<strong><font color=darkblue>Invited Talks: </font></strong> <br>
+    Pretrained Language Model and Semantic Textual Understanding, <strong>SKKU</strong>, Sep. 2022<br>
+    Semantic Textual Understanding for Information Retrieval, <a href="http://capp.snu.ac.kr/?p=workshop#program">Seoul National Univ.</a>, Aug. 2022<br>
+    Mutimodal Evaluation Metric and Image Captioning Model, <strong>Korea Univ.</strong>, Dec. 2021<br>
+    Recent Advancements in NLP for QA, LM, and Evaluation Metric, <strong>Dongguk Univ.</strong>, Sep. 2020<br>
+    Understanding Long Texts for Question Answering System Using DNN, <strong>KAIST/IBS</strong>, Jul. 2020<br>
+    Question Answering System for Long Text, <strong>Adobe Research</strong> (San Jose, CA, US), Dec. 2019<br>
+    Question Answering System and Multimodal Speech Emotion Recognition, <strong>DEEPEST</strong>, Aug. 2019<br>
+	Research in Natural Language Processing, 
+	<a href="https://www.nvidia.com/ko-kr/ai-conference/"><strong>NVIDIA AI Conference</strong></a>, Jul. 2019<br>
+	Question Answering for Short Answer, <strong>Adobe Research</strong> (San Jose, CA, US), Dec. 2018<br>
+	QA-pair ranking algorithm and its applications, <strong>NAVER</strong>, Aug. 2018<br>
+    Learning to Rank Question-Answer Pairs, <strong>PyTorch KR</strong>, Jun. 2018<br>
+	Advancement of the Neural Dialogue Model, 
+	<a href="https://www.fastcampus.co.kr/data_camp_lab/"><strong>Fast campus</strong></a>, 
+	Jul. 2018 <br>
+	<br>
+  </li>
+  <li><font size="2">
+	<strong><font color=darkblue>Teaching Assistant: </font></strong> <br>
+	Programming Methodology, Seoul National University, Spring 2018 <br>
+	Machine Learning, Seoul National University, Fall 2015 <br>
+	Lab. Sentiment Analysis, BigCamp (Big Data Academy), Big Data Institute, 2016-2019 <br>
+	<br>
+  </li>
+  </font>
+</ul>

@@ -3,13 +3,14 @@
 <!--*denotes equal contribution.<br>-->
 <ol style="line-height:1.4em" reversed>
   <font size="2">
-  <h4><strong>[2023]</strong></h4>
+  <h4><strong>[2024]</strong></h4>
 	<li>
 		<strong>Multi-Modal Video Topic Segmentation with Dual-Contrastive Domain Adaptation</strong>
 		<br><i>Linzi Xing, Quan Hung Tran, Fabian Caba Heilbron, Franck Dernoncourt, David <u>Seunghyun Yoon</u>, Zhaowen Wang, Trung Bui, Giuseppe Carenini</i>
 		<br><a href="https://mmm2024.org/">Multimedia Modelling 2024</a>
 		<p>
 	</li>
+  <h4><strong>[2023]</strong></h4>
 	<li>
 		<strong>Aspect-based Meeting Transcript Summarization: A Two-Stage Approach with Weak Supervision on Sentence Classification</strong>
 		<br><i>Zhongfen Deng, <u>Seunghyun Yoon</u>, Trung Bui, Franck Dernoncourt, Quan Hung Tran, Shuaiqi Liu, Wenting Zhao, Tao Zhang, Yibo Wang, Philip Yu</i>

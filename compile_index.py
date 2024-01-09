@@ -12,6 +12,12 @@ target_data = ["./resource/into.txt",
 
 main = ""
 
+main += "---\n"
+main += "layout: page\n"
+main += "title: \"David Seunghyun Yoon\"\n"
+main += "---\n"
+
+
 for file in target_data:
 
     with open(file, "r") as f:

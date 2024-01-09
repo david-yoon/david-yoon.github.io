@@ -1,7 +1,3 @@
----
-layout: page
-title: "David Seunghyun Yoon"
----
 
 <img src="{{ site.baseurl }}/assets/profile/img" align="right" title="Profile Picture" class="profile">
 <!--<font size="5"><strong>David Seunghyun Yoon </strong></font> <br>-->

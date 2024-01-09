@@ -1,3 +1,6 @@
+# tmp
+.ipynb_checkpoints/
+
 .DS_Store
 
 # Compiled site

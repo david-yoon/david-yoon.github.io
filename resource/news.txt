@@ -4,6 +4,12 @@
 
 <ul style="line-height:1.4em">
   <font size="2">
+  <li>
+	<font color=red>*new*</font>
+	[01/2024]
+	One paper (Textual Representation) is accepted to <a href="https://2024.eacl.org/">EACL 2024 Findings</a>.
+ </li>
+ <li>
  <li>
 	<font color=red>*new*</font>
 	[11/2023]

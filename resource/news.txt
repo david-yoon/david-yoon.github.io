@@ -10,7 +10,6 @@
 	One paper (Textual Representation) is accepted to <a href="https://2024.eacl.org/">EACL 2024 Findings</a>.
  </li>
  <li>
- <li>
 	<font color=red>*new*</font>
 	[11/2023]
 	One paper (Video Topic Segmentation) is accepted to <a href="https://mmm2024.org/">Multimedia Modelling 2024</a>.

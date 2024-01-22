@@ -54,9 +54,10 @@ for index, row in df.iterrows():
 
     # add authors
     item += "\t\t<br><i>{}</i>\n".format(row["authors"].replace("Seunghyun Yoon", "<u>Seunghyun Yoon</u>").replace("S Yoon", "<u>S Yoon</u>"))
-    
+
     # add venue
-    item += "\t\t<br><a href=\"{}\">{}</a>\n".format(row["conference_url"], row["conference"])
+    if type(row["conference"]) != float and str(row["conference"]).strip() != "0":    
+        item += "\t\t<br><a href=\"{}\">{}</a>\n".format(row["conference_url"], row["conference"])
 
     item += "\t\t<p>\n"
     item += "\t</li>\n"

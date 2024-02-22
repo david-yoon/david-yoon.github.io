@@ -5,6 +5,12 @@
   <font size="2">
   <h4><strong>[arXiv]</strong></h4>
 	<li>
+		<strong>Understanding News Thumbnail Representativeness by Counterfactual Text-Guided Contrastive Language-Image Pretraining</strong>
+		<a href="https://arxiv.org/pdf/2402.11159.pdf">[pdf]</a>
+		<br><i>Yejun Yoon, <u>Seunghyun Yoon</u>, Kunwoo Park</i>
+		<p>
+	</li>
+	<li>
 		<strong>PDFTriage: Question Answering over Long, Structured Documents</strong>
 		<a href="https://arxiv.org/pdf/2309.08872.pdf">[pdf]</a>
 		<br><i>Jon Saad-Falcon, Joe Barrow, Alexa Siu, Ani Nenkova, <u>Seunghyun Yoon</u>, Ryan A. Rossi, Franck Dernoncourt</i>
@@ -25,13 +31,14 @@
   <h4><strong>[2024]</strong></h4>
 	<li>
 		<strong>Fine-tuning CLIP Text Encoders with Two-step Paraphrasing</strong>
-		<br><i>Hyunjae Kim, <u>Seunghyun Yoon</u>, Trung Bui, Handong Zhao, Quan Hung Tran, Franck Dernoncourt, Jaewoo Kang</i>
+		<br><i>Hyunjae Kim, <u>Seunghyun Yoon</u>, Trung Bui, Handong Zhao, Quan Tran, Franck Dernoncourt, Jaewoo Kang</i>
 		<br><a href="https://2024.eacl.org/">EACL 2024 Findings</a>
 		<p>
 	</li>
 	<li>
 		<strong>Multi-Modal Video Topic Segmentation with Dual-Contrastive Domain Adaptation</strong>
-		<br><i>Linzi Xing, Quan Hung Tran, Fabian Caba Heilbron, Franck Dernoncourt, <u>Seunghyun Yoon</u>, Zhaowen Wang, Trung Bui, Giuseppe Carenini</i>
+		<a href="https://arxiv.org/pdf/2312.00220.pdf">[pdf]</a>
+		<br><i>Linzi Xing, Quan Tran, Fabian Caba Heilbron, Franck Dernoncourt, <u>Seunghyun Yoon</u>, Zhaowen Wang, Trung Bui, Giuseppe Carenini</i>
 		<br><a href="https://mmm2024.org/">Multimedia Modelling 2024</a>
 		<p>
 	</li>
@@ -39,7 +46,7 @@
 	<li>
 		<strong>Aspect-based Meeting Transcript Summarization: A Two-Stage Approach with Weak Supervision on Sentence Classification</strong>
 		<a href="https://arxiv.org/pdf/2311.04292.pdf">[pdf]</a>
-		<br><i>Zhongfen Deng, <u>Seunghyun Yoon</u>, Trung Bui, Franck Dernoncourt, Quan Hung Tran, Shuaiqi Liu, Wenting Zhao, Tao Zhang, Yibo Wang, Philip Yu</i>
+		<br><i>Zhongfen Deng, <u>Seunghyun Yoon</u>, Trung Bui, Franck Dernoncourt, Quan Tran, Shuaiqi Liu, Wenting Zhao, Tao Zhang, Yibo Wang, Philip Yu</i>
 		<br><a href="https://bigdataieee.org/BigData2023/">IEEE BigData 2023</a>
 		<p>
 	</li>
@@ -61,7 +68,7 @@
 	<li>
 		<strong>Boosting Punctuation Restoration with Data Generation and Reinforcement Learning</strong>
 		<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2023/lai23c_interspeech.pdf">[pdf]</a>
-		<br><i>Viet Lai, Abel Salinas, Hao Tan, Trung Bui, Quan Hung Tran, <u>Seunghyun Yoon</u>, Hanieh Deilamsalehy, Franck Dernoncourt, Thien Nguyen</i>
+		<br><i>Viet Lai, Abel Salinas, Hao Tan, Trung Bui, Quan Tran, <u>Seunghyun Yoon</u>, Hanieh Deilamsalehy, Franck Dernoncourt, Thien Nguyen</i>
 		<br><a href="https://www.interspeech2023.org/">Interspeech 2023</a>
 		<p>
 	</li>
@@ -134,7 +141,7 @@
 	<li>
 		<strong>Keyphrase Prediction from Video Transcripts: New Dataset and Directions</strong>
 		<a href="https://aclanthology.org/2022.coling-1.624.pdf">[pdf]</a>
-		<br><i>Amir Pouran Ben Veyseh, Quan Hung Tran, <u>Seunghyun Yoon</u>, Varun Manjunatha, Hanieh Deilamsalehy, Rajiv Jain, Trung Bui, Walter W. Chang, Franck Dernoncourt, Thien Huu Nguyen</i>
+		<br><i>Amir Pouran Ben Veyseh, Quan Tran, <u>Seunghyun Yoon</u>, Varun Manjunatha, Hanieh Deilamsalehy, Rajiv Jain, Trung Bui, Walter W. Chang, Franck Dernoncourt, Thien Huu Nguyen</i>
 		<br><a href="https://coling2022.org/">COLING 2022</a>
 		<p>
 	</li>

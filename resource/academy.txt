@@ -13,6 +13,7 @@
   </li>
   <li>
 	<strong><font color=darkblue>Invited Talks: </font></strong> <br>
+    Learning Text Representation for NLP Application, <strong>Seoul National Univ.</strong>, Aug. 2023<br>
     Pretrained Language Model and Semantic Textual Understanding, <strong>SKKU</strong>, Sep. 2022<br>
     Semantic Textual Understanding for Information Retrieval, <a href="http://capp.snu.ac.kr/?p=workshop#program">Seoul National Univ.</a>, Aug. 2022<br>
     Mutimodal Evaluation Metric and Image Captioning Model, <strong>Korea Univ.</strong>, Dec. 2021<br>

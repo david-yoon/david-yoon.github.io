@@ -30,6 +30,13 @@
 	</li>
   <h4><strong>[2024]</strong></h4>
 	<li>
+		<strong>PEEB: Part-based Bird Classifiers with an Explainable and Editable Language Bottleneck</strong>
+		<a href="https://arxiv.org/pdf/2403.05297.pdf">[pdf]</a>
+		<br><i>Thang M. Pham, Peijie Chen, Tin Nguyen, <u>Seunghyun Yoon</u>, Trung Bui, Anh Nguyen</i>
+		<br><a href="https://2024.naacl.org/">NAACL 2024 Findings</a>
+		<p>
+	</li>
+	<li>
 		<strong>Scaling Up Video Summarization Pretraining with Large Language Models</strong>
 		<br><i>Dawit Mureja Argaw, <u>Seunghyun Yoon</u>, Fabian Caba Heilbron, Hanieh Deilamsalehy, Trung Bui, Zhaowen Wang, Franck Dernoncourt, Joon Son Chung </i>
 		<br><a href="https://cvpr.thecvf.com/">CVPR 2024</a>

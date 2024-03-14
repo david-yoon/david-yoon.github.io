@@ -6,39 +6,43 @@
   <font size="2">
   <li>
 	<font color=red>*new*</font>
+	[03/2024]
+	One paper (Explainable Image Classification) is accepted to <a href="https://2024.naacl.org/">NAACL 2024 Findings</a>.
+  </li>
+  <li>
+	<font color=red>*new*</font>
 	[02/2024]
 	One paper (Video Summary) is accepted to <a href="https://cvpr.thecvf.com/">CVPR 2024</a>.
- </li>
+  </li>
   <li>
 	<font color=red>*new*</font>
 	[01/2024]
 	One paper (Textual Representation) is accepted to <a href="https://2024.eacl.org/">EACL 2024 Findings</a>.
- </li>
- <li>
-	<font color=red>*new*</font>
+  </li>
+  <li>	
 	[11/2023]
 	One paper (Video Topic Segmentation) is accepted to <a href="https://mmm2024.org/">Multimedia Modelling 2024</a>.
   </li>
- <li>
+  <li>
 	[10/2023]
 	One paper (Transcript Understanding) is accepted to <a href="https://bigdataieee.org/BigData2023/">IEEE BigData 2023</a>.
   </li>
- <li>	
+  <li>	
 	[10/2023]
 	One paper (Image Captioning Metric) is accepted to <a href="https://2023.emnlp.org/">EMNLP 2023 Findings</a>.
   </li>
- <li>
+  <li>
 	One paper (Moment Detection) is accepted to <a href="https://iccv2023.thecvf.com/">ICCV 2023</a>.
   </li>
- <li>
+  <li>
 	[05/2023]
 	One paper (Transcript Understanding) is accepted to <a href="https://www.interspeech2023.org/">Interspeech 2023</a>.
   </li>
- <li>
+  <li>
 	[05/2023]
 	Two papers (HighGEN, MeetingQA) are accepted to <a href="https://2023.aclweb.org/">ACL 2023</a>.
   </li>
- <li>
+  <li>
 	[01/2023]
 	One paper is accepted to <a href="https://2023.eacl.org/">EACL 2023</a>.
   </li>

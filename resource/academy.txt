@@ -12,7 +12,7 @@
     <br>
   </li>
   <li>
-	<strong><font color=darkblue>Invited Talks: </font></strong> <be>
+	<strong><font color=darkblue>Invited Talks: </font></strong> <br>
     Robust Textual Representation for Text and Multimodal Understanding, <strong>Dongguk University.</strong>, Mar. 2024<br>
     Learning Text Representation for NLP Application, <strong>Seoul National Univ.</strong>, Aug. 2023<br>
     Pretrained Language Model and Semantic Textual Understanding, <strong>SKKU</strong>, Sep. 2022<br>

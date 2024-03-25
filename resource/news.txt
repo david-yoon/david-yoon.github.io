@@ -7,6 +7,11 @@
   <li>
 	<font color=red>*new*</font>
 	[03/2024]
+	One paper (Multilingual Representation for Semantic Retrieval) is accepted to <a href="https://sigir-2024.github.io/">SIGIR 2024</a>.
+  </li>
+  <li>
+	<font color=red>*new*</font>
+	[03/2024]
 	One paper (Explainable Image Classification) is accepted to <a href="https://2024.naacl.org/">NAACL 2024 Findings</a>.
   </li>
   <li>

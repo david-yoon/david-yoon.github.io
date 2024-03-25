@@ -17,18 +17,19 @@
 		<p>
 	</li>
 	<li>
-		<strong>Multilingual Sentence-Level Semantic Search using Meta-Distillation Learning</strong>
-		<a href="https://arxiv.org/pdf/2309.08185.pdf">[pdf]</a>
-		<br><i>Meryem M'hamdi, Jonathan May, Franck Dernoncourt, Trung Bui, <u>Seunghyun Yoon</u></i>
-		<p>
-	</li>
-	<li>
 		<strong>MVMR: Evaluating Natural Language Video Localization Bias over Multiple Reliable Videos Pool</strong>
 		<a href="https://arxiv.org/pdf/2309.16701.pdf">[pdf]</a>
 		<br><i>Nakyeong Yang, Minsung Kim, <u>Seunghyun Yoon</u>, Joongbo Shin, Kyomin Jung</i>
 		<p>
 	</li>
   <h4><strong>[2024]</strong></h4>
+	<li>
+		<strong>Multilingual Sentence-Level Semantic Search using Meta-Distillation Learning</strong>
+		<a href="https://arxiv.org/pdf/2309.08185.pdf">[pdf]</a>
+		<br><i>Meryem M'hamdi, Jonathan May, Franck Dernoncourt, Trung Bui, <u>Seunghyun Yoon</u></i>
+		<br><a href="https://sigir-2024.github.io/">SIGIR 2024</a>
+		<p>
+	</li>
 	<li>
 		<strong>PEEB: Part-based Bird Classifiers with an Explainable and Editable Language Bottleneck</strong>
 		<a href="https://arxiv.org/pdf/2403.05297.pdf">[pdf]</a>

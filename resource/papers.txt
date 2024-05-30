@@ -5,12 +5,6 @@
   <font size="2">
   <h4><strong>[arXiv]</strong></h4>
 	<li>
-		<strong>Understanding News Thumbnail Representativeness by Counterfactual Text-Guided Contrastive Language-Image Pretraining</strong>
-		<a href="https://arxiv.org/pdf/2402.11159.pdf">[pdf]</a>
-		<br><i>Yejun Yoon, <u>Seunghyun Yoon</u>, Kunwoo Park</i>
-		<p>
-	</li>
-	<li>
 		<strong>PDFTriage: Question Answering over Long, Structured Documents</strong>
 		<a href="https://arxiv.org/pdf/2309.08872.pdf">[pdf]</a>
 		<br><i>Jon Saad-Falcon, Joe Barrow, Alexa Siu, Ani Nenkova, <u>Seunghyun Yoon</u>, Ryan A. Rossi, Franck Dernoncourt</i>
@@ -23,6 +17,13 @@
 		<p>
 	</li>
   <h4><strong>[2024]</strong></h4>
+	<li>
+		<strong>Understanding News Thumbnail Representativeness by Counterfactual Text-Guided Contrastive Language-Image Pretraining</strong>
+		<a href="https://arxiv.org/pdf/2402.11159.pdf">[pdf]</a>
+		<br><i>Yejun Yoon, <u>Seunghyun Yoon</u>, Kunwoo Park</i>
+		<br><a href="https://2024.aclweb.org/">ACL 2024 Findings</a>
+		<p>
+	</li>
 	<li>
 		<strong>Multilingual Sentence-Level Semantic Search using Meta-Distillation Learning</strong>
 		<a href="https://arxiv.org/pdf/2309.08185.pdf">[pdf]</a>

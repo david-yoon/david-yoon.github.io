@@ -9,11 +9,6 @@
 	Adobe Research (San Jose, CA, US),
 	2020-present
   </li>
-  <li><font size="2">
-	<strong><font color=darkblue>Research Scientist Intern: </font></strong>
-	Adobe Research (San Jose, CA, US),
-	Fall 2018 
-  </li>
   <li>
 	<strong><font color=darkblue>Staff Engineer: </font></strong>
 	Samsung Research (Seoul, KR),

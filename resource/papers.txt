@@ -18,6 +18,12 @@
 	</li>
   <h4><strong>[2024]</strong></h4>
 	<li>
+		<strong>Identifying Speakers in Dialogue Transcripts: A Text-based Approach Using Pretrained Language Models</strong>
+		<br><i>Van Minh Nguyen, Franck Dernoncourt, <u>Seunghyun Yoon</u>, Hanieh Deilamsalehy, Hao Tan, Ryan Rossi, Quan Hung Tran, Trung Bui, Thien Nguyen</i>
+		<br><a href="https://interspeech2024.org/">INTERSPEECH 2024</a>
+		<p>
+	</li>
+	<li>
 		<strong>Understanding News Thumbnail Representativeness by Counterfactual Text-Guided Contrastive Language-Image Pretraining</strong>
 		<a href="https://arxiv.org/pdf/2402.11159.pdf">[pdf]</a>
 		<br><i>Yejun Yoon, <u>Seunghyun Yoon</u>, Kunwoo Park</i>
@@ -93,7 +99,7 @@
 		<strong>Boosting Punctuation Restoration with Data Generation and Reinforcement Learning</strong>
 		<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2023/lai23c_interspeech.pdf">[pdf]</a>
 		<br><i>Viet Lai, Abel Salinas, Hao Tan, Trung Bui, Quan Tran, <u>Seunghyun Yoon</u>, Hanieh Deilamsalehy, Franck Dernoncourt, Thien Nguyen</i>
-		<br><a href="https://www.interspeech2023.org/">Interspeech 2023</a>
+		<br><a href="https://www.interspeech2023.org/">INTERSPEECH 2023</a>
 		<p>
 	</li>
 	<li>

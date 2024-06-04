@@ -6,6 +6,11 @@
   <font size="2">
   <li>
 	<font color=red>*new*</font>
+	[06/2024]
+	One paper (Speaker Identification) is accepted to <a href="https://interspeech2024.org/">INTERSPEECH 2024</a>.
+  </li>
+  <li>
+	<font color=red>*new*</font>
 	[05/2024]
 	One paper (Assessing News Thumbnail Representativeness) is accepted to <a href="https://2024.aclweb.org/">ACL 2024 Findings</a>.
   </li>

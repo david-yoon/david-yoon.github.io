@@ -10,15 +10,17 @@
 		<br><i>Jon Saad-Falcon, Joe Barrow, Alexa Siu, Ani Nenkova, <u>Seunghyun Yoon</u>, Ryan A. Rossi, Franck Dernoncourt</i>
 		<p>
 	</li>
-	<li>
-		<strong>MVMR: Evaluating Natural Language Video Localization Bias over Multiple Reliable Videos Pool</strong>
-		<a href="https://arxiv.org/pdf/2309.16701.pdf">[pdf]</a>
-		<br><i>Nakyeong Yang, Minsung Kim, <u>Seunghyun Yoon</u>, Joongbo Shin, Kyomin Jung</i>
-		<p>
-	</li>
   <h4><strong>[2024]</strong></h4>
 	<li>
+		<strong>A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors</strong>
+		<a href="https://arxiv.org/pdf/2309.16701.pdf">[pdf]</a>
+		<br><i>Nakyeong Yang, Minsung Kim, <u>Seunghyun Yoon</u>, Joongbo Shin, Kyomin Jung</i>
+		<br><a href="https://cikm2024.org/">CIKM 2024</a>
+		<p>
+	</li>
+	<li>
 		<strong>Identifying Speakers in Dialogue Transcripts: A Text-based Approach Using Pretrained Language Models</strong>
+		<a href="https://arxiv.org/pdf/2407.12094">[pdf]</a>
 		<br><i>Van Minh Nguyen, Franck Dernoncourt, <u>Seunghyun Yoon</u>, Hanieh Deilamsalehy, Hao Tan, Ryan Rossi, Quan Hung Tran, Trung Bui, Thien Nguyen</i>
 		<br><a href="https://interspeech2024.org/">INTERSPEECH 2024</a>
 		<p>

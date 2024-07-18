@@ -39,6 +39,12 @@
 		<p>
 	</li>
 	<li>
+		<strong>KaPQA: Knowledge-Augmented Product Question-Answering</strong>
+		<br><i>Swetha Eppalapally, Daksh Dangi, Chaithra Bhat, Ankita Gupta, Ruiyi Zhang, Karishma Bagga, <u>Seunghyun Yoon</u>, Nedim Lipka, Ryan A. Rossi, Franck Dernoncourt</i>
+		<br><a href="https://2024.aclweb.org/">ACL 2024 KnowledgeNLP</a>
+		<p>
+	</li>
+	<li>
 		<strong>Multilingual Sentence-Level Semantic Search using Meta-Distillation Learning</strong>
 		<a href="https://arxiv.org/pdf/2309.08185.pdf">[pdf]</a>
 		<br><i>Meryem M'hamdi, Jonathan May, Franck Dernoncourt, Trung Bui, <u>Seunghyun Yoon</u></i>

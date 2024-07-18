@@ -12,7 +12,7 @@
 	</li>
   <h4><strong>[2024]</strong></h4>
 	<li>
-		<strong>A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors</strong>
+		<strong>MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors</strong>
 		<a href="https://arxiv.org/pdf/2309.16701.pdf">[pdf]</a>
 		<br><i>Nakyeong Yang, Minsung Kim, <u>Seunghyun Yoon</u>, Joongbo Shin, Kyomin Jung</i>
 		<br><a href="https://cikm2024.org/">CIKM 2024</a>
@@ -30,6 +30,12 @@
 		<a href="https://arxiv.org/pdf/2402.11159.pdf">[pdf]</a>
 		<br><i>Yejun Yoon, <u>Seunghyun Yoon</u>, Kunwoo Park</i>
 		<br><a href="https://2024.aclweb.org/">ACL 2024 Findings</a>
+		<p>
+	</li>
+	<li>
+		<strong>Multi-hop Database Reasoning with Virtual Knowledge Graph</strong>
+		<br><i>Juhee Son, Yeon Seonwoo, Alice Oh, James Thorne, <u>Seunghyun Yoon</u></i>
+		<br><a href="https://2024.aclweb.org/">ACL 2024 KaLLM</a>
 		<p>
 	</li>
 	<li>

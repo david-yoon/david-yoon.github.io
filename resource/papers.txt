@@ -46,28 +46,28 @@
 	</li>
 	<li>
 		<strong>Multilingual Sentence-Level Semantic Search using Meta-Distillation Learning</strong>
-		<a href="https://arxiv.org/pdf/2309.08185.pdf">[pdf]</a>
+		<a href="https://dl.acm.org/doi/pdf/10.1145/3626772.3657812">[pdf]</a>
 		<br><i>Meryem M'hamdi, Jonathan May, Franck Dernoncourt, Trung Bui, <u>Seunghyun Yoon</u></i>
 		<br><a href="https://sigir-2024.github.io/">SIGIR 2024</a>
 		<p>
 	</li>
 	<li>
 		<strong>PEEB: Part-based Bird Classifiers with an Explainable and Editable Language Bottleneck</strong>
-		<a href="https://arxiv.org/pdf/2403.05297.pdf">[pdf]</a>
+		<a href="https://aclanthology.org/2024.findings-naacl.131.pdf">[pdf]</a>
 		<br><i>Thang M. Pham, Peijie Chen, Tin Nguyen, <u>Seunghyun Yoon</u>, Trung Bui, Anh Nguyen</i>
 		<br><a href="https://2024.naacl.org/">NAACL 2024 Findings</a>
 		<p>
 	</li>
 	<li>
 		<strong>Scaling Up Video Summarization Pretraining with Large Language Models</strong>
-		<a href="https://arxiv.org/pdf/2404.03398">[pdf]</a>
+		<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Argaw_Scaling_Up_Video_Summarization_Pretraining_with_Large_Language_Models_CVPR_2024_paper.pdf">[pdf]</a>
 		<br><i>Dawit Mureja Argaw, <u>Seunghyun Yoon</u>, Fabian Caba Heilbron, Hanieh Deilamsalehy, Trung Bui, Zhaowen Wang, Franck Dernoncourt, Joon Son Chung </i>
 		<br><a href="https://cvpr.thecvf.com/">CVPR 2024</a>
 		<p>
 	</li>
 	<li>
 		<strong>Fine-tuning CLIP Text Encoders with Two-step Paraphrasing</strong>
-		<a href="https://arxiv.org/pdf/2402.15120.pdf">[pdf]</a>
+		<a href="https://aclanthology.org/2024.findings-eacl.144.pdf">[pdf]</a>
 		<br><i>Hyunjae Kim, <u>Seunghyun Yoon</u>, Trung Bui, Handong Zhao, Quan Tran, Franck Dernoncourt, Jaewoo Kang</i>
 		<br><a href="https://2024.eacl.org/">EACL 2024 Findings</a>
 		<p>

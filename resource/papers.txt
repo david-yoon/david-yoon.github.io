@@ -5,6 +5,24 @@
   <font size="2">
   <h4><strong>[arXiv]</strong></h4>
 	<li>
+		<strong>VLind-Bench: Measuring Language Priors in Large Vision-Language Models</strong>
+		<a href="https://arxiv.org/pdf/2406.08702">[pdf]</a>
+		<br><i>Kang-il Lee, Minbeom Kim, <u>Seunghyun Yoon</u>, Minsung Kim, Dongryeol Lee, Hyukhun Koh, Kyomin Jung</i>
+		<p>
+	</li>
+	<li>
+		<strong>FIZZ: Factual Inconsistency Detection by Zoom-in Summary and Zoom-out Document</strong>
+		<a href="https://arxiv.org/pdf/2404.11184">[pdf]</a>
+		<br><i>Joonho Yang, <u>Seunghyun Yoon</u>, Byeongjeong Kim, Hwanhee Lee</i>
+		<p>
+	</li>
+	<li>
+		<strong>Towards Enhancing Coherence in Extractive Summarization: Dataset and Experiments with LLMs</strong>
+		<a href="https://arxiv.org/pdf/2407.04855">[pdf]</a>
+		<br><i>Mihir Parmar, Hanieh Deilamsalehy, Franck Dernoncourt, <u>Seunghyun Yoon</u>, Ryan A. Rossi, Trung Bui</i>
+		<p>
+	</li>
+	<li>
 		<strong>PDFTriage: Question Answering over Long, Structured Documents</strong>
 		<a href="https://arxiv.org/pdf/2309.08872.pdf">[pdf]</a>
 		<br><i>Jon Saad-Falcon, Joe Barrow, Alexa Siu, Ani Nenkova, <u>Seunghyun Yoon</u>, Ryan A. Rossi, Franck Dernoncourt</i>
@@ -40,6 +58,7 @@
 	</li>
 	<li>
 		<strong>KaPQA: Knowledge-Augmented Product Question-Answering</strong>
+		<a href="https://arxiv.org/pdf/2407.16073">[pdf]</a>
 		<br><i>Swetha Eppalapally, Daksh Dangi, Chaithra Bhat, Ankita Gupta, Ruiyi Zhang, Karishma Bagga, <u>Seunghyun Yoon</u>, Nedim Lipka, Ryan A. Rossi, Franck Dernoncourt</i>
 		<br><a href="https://2024.aclweb.org/">ACL 2024  Workshop KnowledgeNLP</a>
 		<p>

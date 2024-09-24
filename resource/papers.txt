@@ -11,24 +11,26 @@
 		<p>
 	</li>
 	<li>
-		<strong>FIZZ: Factual Inconsistency Detection by Zoom-in Summary and Zoom-out Document</strong>
-		<a href="https://arxiv.org/pdf/2404.11184">[pdf]</a>
-		<br><i>Joonho Yang, <u>Seunghyun Yoon</u>, Byeongjeong Kim, Hwanhee Lee</i>
-		<p>
-	</li>
-	<li>
-		<strong>Towards Enhancing Coherence in Extractive Summarization: Dataset and Experiments with LLMs</strong>
-		<a href="https://arxiv.org/pdf/2407.04855">[pdf]</a>
-		<br><i>Mihir Parmar, Hanieh Deilamsalehy, Franck Dernoncourt, <u>Seunghyun Yoon</u>, Ryan A. Rossi, Trung Bui</i>
-		<p>
-	</li>
-	<li>
 		<strong>PDFTriage: Question Answering over Long, Structured Documents</strong>
 		<a href="https://arxiv.org/pdf/2309.08872.pdf">[pdf]</a>
 		<br><i>Jon Saad-Falcon, Joe Barrow, Alexa Siu, Ani Nenkova, <u>Seunghyun Yoon</u>, Ryan A. Rossi, Franck Dernoncourt</i>
 		<p>
 	</li>
   <h4><strong>[2024]</strong></h4>
+	<li>
+		<strong>FIZZ: Factual Inconsistency Detection by Zoom-in Summary and Zoom-out Document</strong>
+		<a href="https://arxiv.org/pdf/2404.11184">[pdf]</a>
+		<br><i>Joonho Yang, <u>Seunghyun Yoon</u>, Byeongjeong Kim, Hwanhee Lee</i>
+		<br><a href="https://2024.emnlp.org/">EMNLP 2024</a>
+		<p>
+	</li>
+	<li>
+		<strong>Towards Enhancing Coherence in Extractive Summarization: Dataset and Experiments with LLMs</strong>
+		<a href="https://arxiv.org/pdf/2407.04855">[pdf]</a>
+		<br><i>Mihir Parmar, Hanieh Deilamsalehy, Franck Dernoncourt, <u>Seunghyun Yoon</u>, Ryan A. Rossi, Trung Bui</i>
+		<br><a href="https://2024.emnlp.org/">EMNLP 2024</a>
+		<p>
+	</li>
 	<li>
 		<strong>MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors</strong>
 		<a href="https://arxiv.org/pdf/2309.16701.pdf">[pdf]</a>
@@ -45,20 +47,21 @@
 	</li>
 	<li>
 		<strong>Understanding News Thumbnail Representativeness by Counterfactual Text-Guided Contrastive Language-Image Pretraining</strong>
-		<a href="https://arxiv.org/pdf/2402.11159.pdf">[pdf]</a>
+		<a href="https://aclanthology.org/2024.findings-acl.534.pdf">[pdf]</a>
 		<br><i>Yejun Yoon, <u>Seunghyun Yoon</u>, Kunwoo Park</i>
 		<br><a href="https://2024.aclweb.org/">ACL 2024 Findings</a>
 		<p>
 	</li>
 	<li>
 		<strong>Multi-hop Database Reasoning with Virtual Knowledge Graph</strong>
+		<a href="0https://aclanthology.org/2024.kallm-1.1.pdf">[pdf]</a>
 		<br><i>Juhee Son, Yeon Seonwoo, Alice Oh, James Thorne, <u>Seunghyun Yoon</u></i>
 		<br><a href="https://2024.aclweb.org/">ACL 2024 Workshop KaLLM</a>
 		<p>
 	</li>
 	<li>
 		<strong>KaPQA: Knowledge-Augmented Product Question-Answering</strong>
-		<a href="https://arxiv.org/pdf/2407.16073">[pdf]</a>
+		<a href="https://aclanthology.org/2024.knowledgenlp-1.2.pdf">[pdf]</a>
 		<br><i>Swetha Eppalapally, Daksh Dangi, Chaithra Bhat, Ankita Gupta, Ruiyi Zhang, Karishma Bagga, <u>Seunghyun Yoon</u>, Nedim Lipka, Ryan A. Rossi, Franck Dernoncourt</i>
 		<br><a href="https://2024.aclweb.org/">ACL 2024  Workshop KnowledgeNLP</a>
 		<p>

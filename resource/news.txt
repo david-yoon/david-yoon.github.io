@@ -7,7 +7,7 @@
   <li>
 	<font color=red>*new*</font>
 	[09/2024]
-	Two paper (Summarization and Factual Inconsistency Detection) is accepted to <a href="https://2024.emnlp.org/">EMNLP 2024</a>.
+	<b>Two papers</b> (Summarization and Factual Inconsistency Detection) are accepted to <a href="https://2024.emnlp.org/">EMNLP 2024</a>.
   </li>
   <li>
 	<font color=red>*new*</font>

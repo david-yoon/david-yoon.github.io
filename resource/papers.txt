@@ -10,13 +10,21 @@
 		<br><i>Kang-il Lee, Minbeom Kim, <u>Seunghyun Yoon</u>, Minsung Kim, Dongryeol Lee, Hyukhun Koh, Kyomin Jung</i>
 		<p>
 	</li>
+  <h4><strong>[2024]</strong></h4>
+	<li>
+		<strong>	
+The Herd of Open LLMs for Verifying Real-World Claims</strong>
+		<br><i>Yejun Yoon, Jaeyoon Jung, <u>Seunghyun Yoon</u>, Kunwoo Park</i>
+		<br><a href="nan">EMNLP 2024 Workshop FEVER</a>
+		<p>
+	</li>
 	<li>
 		<strong>PDFTriage: Question Answering over Long, Structured Documents</strong>
 		<a href="https://arxiv.org/pdf/2309.08872.pdf">[pdf]</a>
 		<br><i>Jon Saad-Falcon, Joe Barrow, Alexa Siu, Ani Nenkova, <u>Seunghyun Yoon</u>, Ryan A. Rossi, Franck Dernoncourt</i>
+		<br><a href="https://2024.emnlp.org/">EMNLP 2024 Industry</a>
 		<p>
 	</li>
-  <h4><strong>[2024]</strong></h4>
 	<li>
 		<strong>FIZZ: Factual Inconsistency Detection by Zoom-in Summary and Zoom-out Document</strong>
 		<a href="https://arxiv.org/pdf/2404.11184">[pdf]</a>

@@ -17,7 +17,7 @@
   <li>
 	<font color=red>*new*</font>
 	[08/2024]
-	Our team achieved <b>2nd place</b> (<b>1st place among open source</b>) in the AVERITEC Shared Task hosted by EMNLP 2024 FEVER workshop <a href="https://fever.ai/task.html">FEVER 2024</a>.
+	Our team achieved <b>2nd place</b> (<b>1st place among open source</b>) in the AVERITEC Shared Task hosted by <a href="https://2024.emnlp.org/">EMNLP 2024</a> Workshop <a href="https://fever.ai/task.html">FEVER</a>.
   </li>
   <li>
 	<font color=red>*new*</font>

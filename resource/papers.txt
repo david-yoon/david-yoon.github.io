@@ -14,7 +14,7 @@
 	<li>
 		<strong>	
 The Herd of Open LLMs for Verifying Real-World Claims</strong>
-		<br><font color=orange>(2nd place (1st place among open source))</font>
+		<br><font color=orange>(2nd place / 1st place among open source)</font>
 		<br><i>Yejun Yoon, Jaeyoon Jung, <u>Seunghyun Yoon</u>, Kunwoo Park</i>
 		<br><a href="https://fever.ai/workshop.html">EMNLP 2024 Workshop FEVER</a>
 		<p>

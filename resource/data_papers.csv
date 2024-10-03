@@ -1,7 +1,7 @@
 ﻿year,title,authors,conference,conference_url,comment,meta_1,meta_1-url,meta_2,meta_2-url,meta_3,meta_3-url,meta_4,meta_4-url
 arXiv,VLind-Bench: Measuring Language Priors in Large Vision-Language Models,"Kang-il Lee, Minbeom Kim, Seunghyun Yoon, Minsung Kim, Dongryeol Lee, Hyukhun Koh, Kyomin Jung",0,0,0,pdf,https://arxiv.org/pdf/2406.08702,0,0,0,0,0,0
 2024,"	
-The Herd of Open LLMs for Verifying Real-World Claims","Yejun Yoon, Jaeyoon Jung, Seunghyun Yoon, Kunwoo Park",EMNLP 2024 Workshop FEVER,https://fever.ai/workshop.html,2nd place (1st place among open source),0,0,0,0,0,0,0,0
+The Herd of Open LLMs for Verifying Real-World Claims","Yejun Yoon, Jaeyoon Jung, Seunghyun Yoon, Kunwoo Park",EMNLP 2024 Workshop FEVER,https://fever.ai/workshop.html,2nd place / 1st place among open source,0,0,0,0,0,0,0,0
 2024,"PDFTriage: Question Answering over Long, Structured Documents","Jon Saad-Falcon, Joe Barrow, Alexa Siu, Ani Nenkova, Seunghyun Yoon, Ryan A. Rossi, Franck Dernoncourt",EMNLP 2024 Industry,https://2024.emnlp.org/,0,pdf,https://arxiv.org/pdf/2309.08872.pdf,0,0,0,0,0,0
 2024,FIZZ: Factual Inconsistency Detection by Zoom-in Summary and Zoom-out Document,"Joonho Yang, Seunghyun Yoon, Byeongjeong Kim, Hwanhee Lee",EMNLP 2024,https://2024.emnlp.org/,0,pdf,https://arxiv.org/pdf/2404.11184,0,0,0,0,0,0
 2024,Towards Enhancing Coherence in Extractive Summarization: Dataset and Experiments with LLMs,"Mihir Parmar, Hanieh Deilamsalehy, Franck Dernoncourt, Seunghyun Yoon, Ryan A. Rossi, Trung Bui",EMNLP 2024,https://2024.emnlp.org/,0,pdf,https://arxiv.org/pdf/2407.04855,0,0,0,0,0,0

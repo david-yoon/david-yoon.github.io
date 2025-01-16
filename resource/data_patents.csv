@@ -1,4 +1,7 @@
 ﻿Type,issued,title,authors,number,date,meta_1,meta_1-url
+ International Patents,1,IMAGE CAPTIONING,"Jaemin Cho, Seunghyun Yoon, Ajinkya Kale, Franck Dernoncourt, Trung Bui","US 12,210,825",28-Jan-25,0,0
+ International Patents,1,INTENT DETECTION,"Xiang Chen, Walter Chang, Trung Bui, Seunghyun Yoon, Quan Tran, Jianguo Zhang","US 12,182,524",31-Dec-24,0,0
+ International Patents,1,Multimodal intent discovery system,"Adyasha Maharana, Quan Hung Tran, Seunghyun Yoon, Franck Dernoncourt, Trung Huu Bui, Walter W. Chang","US 12,124,508",22-Oct-24,link,https://patents.google.com/patent/US12124508B2/en?oq=12124508
  International Patents,1,Using neural networks to detect incongruence between headlines and body text of documents,Seunghyun Yoon,"US 12,038,960",16-Jul-24,link,https://patents.google.com/patent/US12038960B2/en?oq=12038960
  International Patents,1,Utilizing a graph neural network to identify supporting text phrases and generate digital query responses ,"S Yoon, F Dernoncourt, DS Kim, T Bui","US 11,271,876",8-Mar-22,link,https://patents.google.com/patent/US20210058345A1/en?oq=US20210058345A1
  International Patents,1,Utilizing bi-directional recurrent encoders with multi-hop attention for speech emotion recognition,"T Bui, S Dey, S Yoon","US 11,205,444",21-Dec-21,link,https://patents.google.com/patent/US20210050033A1/en?oq=US20210050033A1
@@ -19,3 +22,8 @@ Korean Patents,1,"Method and apparatus for providing information, and computer r
 Korean Patents,1,"Method for recommendation of application, mobile terminal thereof and communication system thereof","J Nam, M Lee, M Koo, S Yoon",KR 10-1747303,8-Jun-17,0,0
 Korean Patents,0,Device and method for analyzing user emotion,"E Rhim, J Kim, J Nam, S Yoon, K Park, J Park, M Cha",KR 1020160058782,13-May-16,0,0
 Korean Patents,1,Method and apparatus for fast positioning using global positioning system,"S Yoon, S Kim",KR 10-1564938,27-Oct-15,0,0
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

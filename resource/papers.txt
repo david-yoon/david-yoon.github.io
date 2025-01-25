@@ -7,13 +7,13 @@
 	<li>
 		<strong>Generating Diverse Hypotheses for Inductive Reasoning</strong>
 		<br><i>Kang-il Lee, Hyukhun Koh, Dongryeol Lee, <u>Seunghyun Yoon</u>, Minsung Kim, Kyomin Jung</i>
-		<br><a href="https://2025.naacl.org/">NAACL 2025 Findings</a>
+		<br><a href="https://2025.naacl.org/">NAACL 2025 </a>
 		<p>
 	</li>
 	<li>
 		<strong>Enhancing Language Models to Efficiently Generate All Relevant Answers from Complex, Interrelated Contexts</strong>
 		<br><i>Hyunji Lee, Franck Dernoncourt, Trung Bui, <u>Seunghyun Yoon</u></i>
-		<br><a href="https://2025.naacl.org/">NAACL 2025 Findings</a>
+		<br><a href="https://2025.naacl.org/">NAACL 2025 </a>
 		<p>
 	</li>
 	<li>

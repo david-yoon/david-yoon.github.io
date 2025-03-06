@@ -1,8 +1,10 @@
 ﻿Type,issued,title,authors,number,date,meta_1,meta_1-url
- International Patents,1,IMAGE CAPTIONING,"Jaemin Cho, Seunghyun Yoon, Ajinkya Kale, Franck Dernoncourt, Trung Bui","US 12,210,825",28-Jan-25,0,0
- International Patents,1,INTENT DETECTION,"Xiang Chen, Walter Chang, Trung Bui, Seunghyun Yoon, Quan Tran, Jianguo Zhang","US 12,182,524",31-Dec-24,0,0
- International Patents,1,Multimodal intent discovery system,"Adyasha Maharana, Quan Hung Tran, Seunghyun Yoon, Franck Dernoncourt, Trung Huu Bui, Walter W. Chang","US 12,124,508",22-Oct-24,link,https://patents.google.com/patent/US12124508B2/en?oq=12124508
- International Patents,1,Using neural networks to detect incongruence between headlines and body text of documents,Seunghyun Yoon,"US 12,038,960",16-Jul-24,link,https://patents.google.com/patent/US12038960B2/en?oq=12038960
+ International Patents,1,GENERATING SYNTHETIC CODE-SWITCHED DATA FOR TRAINING LANGUAGE MODELS,"S Yoon, T Bui, F Dernoncourt, C Salaam","US 12,242,820",4-Mar-25,0,0
+ International Patents,1,BI-DIRECTIONAL RECURRENT ENCODERS WITH MULTI-HOP ATTENTION FOR SPEECH EMOTION RECOGNITION,"S Yoon, T Bui, S Dey","US 12,236,975",25-Feb-25,0,0
+ International Patents,1,IMAGE CAPTIONING,"J Cho, S Yoon, A Kale, F Dernoncourt, T Bui","US 12,210,825",28-Jan-25,0,0
+ International Patents,1,INTENT DETECTION,"X Chen, W Chang, T Bui, S Yoon, Q Tran, J Zhang","US 12,182,524",31-Dec-24,link,https://patents.google.com/patent/US12182524B2/en?oq=US12182524B2
+ International Patents,1,Multimodal intent discovery system,"A Maharana, Q Hung Tran, S Yoon, F Dernoncourt, T Huu Bui, W  Chang","US 12,124,508",22-Oct-24,link,https://patents.google.com/patent/US12124508B2/en?oq=12124508
+ International Patents,1,Using neural networks to detect incongruence between headlines and body text of documents,S Yoon,"US 12,038,960",16-Jul-24,link,https://patents.google.com/patent/US12038960B2/en?oq=12038960
  International Patents,1,Utilizing a graph neural network to identify supporting text phrases and generate digital query responses ,"S Yoon, F Dernoncourt, DS Kim, T Bui","US 11,271,876",8-Mar-22,link,https://patents.google.com/patent/US20210058345A1/en?oq=US20210058345A1
  International Patents,1,Utilizing bi-directional recurrent encoders with multi-hop attention for speech emotion recognition,"T Bui, S Dey, S Yoon","US 11,205,444",21-Dec-21,link,https://patents.google.com/patent/US20210050033A1/en?oq=US20210050033A1
  International Patents,1,Answer selection using a compare-aggregate model with language model and condensed similarity information from latent clustering,"S Yoon, F Dernoncourt, T Bui, DS Kim, CI Dockhorn, Y Gong","US 11,113,323",7-Sep-21,link,https://patents.google.com/patent/US11113323B2/en?oq=US11113323B2

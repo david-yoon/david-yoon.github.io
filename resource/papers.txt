@@ -6,12 +6,13 @@
   <h4><strong>[2025]</strong></h4>
 	<li>
 		<strong>Generating Diverse Hypotheses for Inductive Reasoning</strong>
+		<a href="https://arxiv.org/pdf/2412.13422">[pdf]</a>
 		<br><i>Kang-il Lee, Hyukhun Koh, Dongryeol Lee, <u>Seunghyun Yoon</u>, Minsung Kim, Kyomin Jung</i>
 		<br><a href="https://2025.naacl.org/">NAACL 2025 </a>
 		<p>
 	</li>
 	<li>
-		<strong>Enhancing Language Models to Efficiently Generate All Relevant Answers from Complex, Interrelated Contexts</strong>
+		<strong>CORG: Generating Answers from Complex, Interrelated Contexts</strong>
 		<br><i>Hyunji Lee, Franck Dernoncourt, Trung Bui, <u>Seunghyun Yoon</u></i>
 		<br><a href="https://2025.naacl.org/">NAACL 2025 </a>
 		<p>
@@ -25,6 +26,7 @@
 	</li>
 	<li>
 		<strong>Text2Relight: Creative Portrait Relighting with Text Guidance</strong>
+		<a href="https://arxiv.org/pdf/2412.13734">[pdf]</a>
 		<br><i>Junuk Cha, Mengwei Ren, Krishna Kumar Singh, He Zhang, Yannick Hold-Geoffroy, <u>Seunghyun Yoon</u>, HyunJoon Jung, Jae Shin Yoon, Seungryul Baek </i>
 		<br><a href="https://aaai.org/conference/aaai/aaai-25/">AAAI 2025</a>
 		<p>

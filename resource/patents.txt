@@ -5,6 +5,10 @@
 </font>
 <ol reversed style="line-height:1.4em"><font size="2">	<li>
 		[<font color=magenta>issued</font>]		<strong>SYSTEMS AND METHODS FOR IMAGE PROCESSING USING NATURAL LANGUAGE</strong>
+		<br><i>H Kim, DS Kim, <u>S Yoon</u>, F Dernoncourt, T Bui</i>
+		<br>US 12,293,577, 6-May-25
+		<p>
+	</li>
 	<li>
 		[<font color=magenta>issued</font>]		<strong>GENERATING SYNTHETIC CODE-SWITCHED DATA FOR TRAINING LANGUAGE MODELS</strong>
 		<a href="https://patents.google.com/patent/US12242820B2/en?oq=US+12%2c242%2c820">[link]</a>

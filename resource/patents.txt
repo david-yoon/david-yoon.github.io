@@ -4,19 +4,24 @@
   <h4>[  International Patents ]</h4>
 </font>
 <ol reversed style="line-height:1.4em"><font size="2">	<li>
+		[<font color=magenta>issued</font>]		<strong>SYSTEMS AND METHODS FOR IMAGE PROCESSING USING NATURAL LANGUAGE</strong>
+	<li>
 		[<font color=magenta>issued</font>]		<strong>GENERATING SYNTHETIC CODE-SWITCHED DATA FOR TRAINING LANGUAGE MODELS</strong>
+		<a href="https://patents.google.com/patent/US12242820B2/en?oq=US+12%2c242%2c820">[link]</a>
 		<br><i><u>S Yoon</u>, T Bui, F Dernoncourt, C Salaam</i>
 		<br>US 12,242,820, 4-Mar-25
 		<p>
 	</li>
 	<li>
 		[<font color=magenta>issued</font>]		<strong>BI-DIRECTIONAL RECURRENT ENCODERS WITH MULTI-HOP ATTENTION FOR SPEECH EMOTION RECOGNITION</strong>
+		<a href="https://patents.google.com/patent/US12236975B2/en?oq=US+12%2c236%2c975">[link]</a>
 		<br><i><u>S Yoon</u>, T Bui, S Dey</i>
 		<br>US 12,236,975, 25-Feb-25
 		<p>
 	</li>
 	<li>
 		[<font color=magenta>issued</font>]		<strong>IMAGE CAPTIONING</strong>
+		<a href="https://patents.google.com/patent/US12210825B2/en?oq=US+12%2c210%2c825">[link]</a>
 		<br><i>J Cho, <u>S Yoon</u>, A Kale, F Dernoncourt, T Bui</i>
 		<br>US 12,210,825, 28-Jan-25
 		<p>

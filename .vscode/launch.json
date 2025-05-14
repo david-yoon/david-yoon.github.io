@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Current File p39",
+            "name": "Python: Current File",
             "type": "python",
             "request": "launch",
             "program": "${file}",
@@ -14,10 +14,11 @@
                 // "--end_idx",
                 // "2"
             ],
-            "python": "/home/syoon/anaconda3/envs/p39/bin/python"
-            // "env": {
-            //     "PYTHONPATH": "$PYTHONPATH:/home/syoon/workspace/github/david-yoon.github.io/resource/"
-            // }
+            "python": "/home/syoon/anaconda3/bin/python",         
+            "env": {
+                "PYTHONPATH": "$PYTHONPATH:/home/syoon/workspace/github/david-yoon.github.io/",
+                "PYTHONPATH": "$PYTHONPATH:/home/syoon/workspace/github/david-yoon.github.io/resource/"
+            }
         }
     ]
 }

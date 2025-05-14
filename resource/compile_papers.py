@@ -1,8 +1,14 @@
 import pandas as pd
+import os
+import sys
 import pathlib
 cur = pathlib.Path().resolve()
 
-df = pd.read_csv(str(cur) + "/data_papers.csv")
+fn = getattr(sys.modules['__main__'], '__file__')
+root_path = os.path.abspath(os.path.dirname(fn))
+rst_file = os.path.join(root_path, "data_papers.csv")
+
+df = pd.read_csv(rst_file)
 
 body = ""
 body += '''<hr>
@@ -13,8 +19,18 @@ body += '''<hr>
 '''
 
 item = ""
-
 current_year = 0
+
+cnt_conference = 0
+cnt_workshop = 0
+cnt_journal = 0
+for index, row in df.iterrows():
+    if row["type"] == "conference":
+        cnt_conference += 1
+    elif row["type"] == "workshop":
+        cnt_workshop += 1
+    elif row["type"] == "journal":
+        cnt_journal += 1
 
 for index, row in df.iterrows():
 
@@ -26,7 +42,24 @@ for index, row in df.iterrows():
         item += "  <h4><strong>[{}]</strong></h4>\n".format(row["year"])
         current_year = row["year"]
 
-    item += "\t<li>\n"
+    # item += "\t<li>\n"
+
+    # add type
+    index_type = ""
+    if row["type"] == "conference":
+        index_type = "[C{}] ".format(str(cnt_conference))
+        cnt_conference -= 1
+        
+    elif row["type"] == "workshop":        
+        index_type = "[W{}] ".format(str(cnt_workshop))
+        cnt_workshop -= 1
+        
+    elif row["type"] == "journal":
+        index_type = "[J{}] ".format(str(cnt_journal))
+        cnt_journal -= 1
+        
+
+    item += index_type 
 
     # add title
     item += "\t\t<strong>{}</strong>\n".format(row["title"])
@@ -60,7 +93,7 @@ for index, row in df.iterrows():
         item += "\t\t<br><a href=\"{}\">{}</a>\n".format(row["conference_url"], row["conference"])
 
     item += "\t\t<p>\n"
-    item += "\t</li>\n"
+    # item += "\t</li>\n"
 
 
 body += item
@@ -70,5 +103,8 @@ body += "</ol>\n"
 print(body)
 
 
-with open("papers.txt", "w") as f:
+output_file = os.path.join(root_path, "papers.txt")
+
+
+with open(output_file, "w") as f:
     f.write(body)

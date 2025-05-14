@@ -18,6 +18,14 @@ body += '''<hr>
   <font size="2">
 '''
 
+
+# body += '''<hr>
+# <h3>Publications</h3>
+# <!--*denotes equal contribution.<br>-->
+#   <font size="2">
+# '''
+
+
 item = ""
 current_year = 0
 
@@ -42,24 +50,24 @@ for index, row in df.iterrows():
         item += "  <h4><strong>[{}]</strong></h4>\n".format(row["year"])
         current_year = row["year"]
 
-    # item += "\t<li>\n"
+    item += "\t<li>\n"
 
-    # add type
-    index_type = ""
-    if row["type"] == "conference":
-        index_type = "[C{}] ".format(str(cnt_conference))
-        cnt_conference -= 1
+    # # add type
+    # index_type = ""
+    # if row["type"] == "conference":
+    #     index_type = "[C{}] ".format(str(cnt_conference))
+    #     cnt_conference -= 1
         
-    elif row["type"] == "workshop":        
-        index_type = "[W{}] ".format(str(cnt_workshop))
-        cnt_workshop -= 1
+    # elif row["type"] == "workshop":        
+    #     index_type = "[W{}] ".format(str(cnt_workshop))
+    #     cnt_workshop -= 1
         
-    elif row["type"] == "journal":
-        index_type = "[J{}] ".format(str(cnt_journal))
-        cnt_journal -= 1
+    # elif row["type"] == "journal":
+    #     index_type = "[J{}] ".format(str(cnt_journal))
+    #     cnt_journal -= 1
         
 
-    item += index_type 
+    # item += index_type 
 
     # add title
     item += "\t\t<strong>{}</strong>\n".format(row["title"])
@@ -93,7 +101,7 @@ for index, row in df.iterrows():
         item += "\t\t<br><a href=\"{}\">{}</a>\n".format(row["conference_url"], row["conference"])
 
     item += "\t\t<p>\n"
-    # item += "\t</li>\n"
+    item += "\t</li>\n"
 
 
 body += item

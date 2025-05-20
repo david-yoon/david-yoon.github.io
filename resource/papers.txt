@@ -5,6 +5,27 @@
   <font size="2">
   <h4><strong>[2025]</strong></h4>
 	<li>
+		<strong>From Selection to Generation: A Survey of LLM-based Active Learning</strong>
+		<a href="https://arxiv.org/pdf/2502.11767">[pdf]</a>
+		<br><i>Yu Xia, Subhojyoti Mukherjee, Zhouhang Xie, Junda Wu, Xintong Li, Ryan Aponte, Hanjia Lyu, Joe Barrow, Hongjie Chen, Franck Dernoncourt, Branislav Kveton, Tong Yu, Ruiyi Zhang, Jiuxiang Gu, Nesreen K. Ahmed, Yu Wang, Xiang Chen, Hanieh Deilamsalehy, Sungchul Kim, Zhengmian Hu, Yue Zhao, Nedim Lipka, <u>Seunghyun Yoon</u>, Ting-Hao Kenneth Huang, Zichao Wang, Puneet Mathur, Soumyabrata Pal, Koyel Mukherjee, Zhehao Zhang, Namyong Park, Thien Huu Nguyen, Jiebo Luo, Ryan A. Rossi, Julian McAuley</i>
+		<br><a href="https://2025.aclweb.org/">ACL 2025</a>
+		<p>
+	</li>
+	<li>
+		<strong>Hypothetical Documents or Knowledge Leakage? Rethinking LLM-based Query Expansion</strong>
+		<a href="https://arxiv.org/pdf/2504.14175">[pdf]</a>
+		<br><i>Yejun Yoon, Jaeyoon Jung, <u>Seunghyun Yoon</u>, Kunwoo Park</i>
+		<br><a href="https://2025.aclweb.org/">ACL 2025 Findings</a>
+		<p>
+	</li>
+	<li>
+		<strong>Click, Type, Repeat: A Comprehensive Survey on GUI Agents</strong>
+		<a href="https://arxiv.org/pdf/2412.13501">[pdf]</a>
+		<br><i>Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu, Junda Wu, Ryan Aponte, Yu Xia, Xintong Li, Jing Shi, Hongjie Chen, Viet Dac Lai, Zhouhang Xie, Sungchul Kim, Ruiyi Zhang, Tong Yu, Mehrab Tanjim, Nesreen K. Ahmed, Puneet Mathur, <u>Seunghyun Yoon</u>, Lina Yao, Branislav Kveton, Jihyung Kil, Thien Huu Nguyen, Trung Bui, Tianyi Zhou, Ryan A. Rossi, Franck Dernoncourt</i>
+		<br><a href="https://2025.aclweb.org/">ACL 2025 Findings</a>
+		<p>
+	</li>
+	<li>
 		<strong>Toward Robust Hyper-Detailed Image Captioning: A Multiagent Approach and Dual Evaluation Metrics for Factuality and Coverage</strong>
 		<a href="https://arxiv.org/abs/2412.15484">[pdf]</a>
 		<br><i>Saehyung Lee, <u>Seunghyun Yoon</u>, Trung Bui, Jing Shi, Sungroh Yoon</i>

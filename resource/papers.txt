@@ -5,29 +5,64 @@
   <font size="2">
   <h4><strong>[2025]</strong></h4>
 	<li>
+		<strong>FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge</strong>
+		<a href="https://arxiv.org/pdf/2502.19207">[pdf]</a>
+		<br><i>Nakyeong Yang, Minsung Kim, <u>Seunghyun Yoon</u>, Joongbo Shin, Kyomin Jung</i>
+		<br><a href="https://2025.emnlp.org/">EMNLP 2025</a>
+		<p>
+	</li>
+	<li>
+		<strong>DynaSaur: Large Language Agents Beyond Predefined Actions</strong>
+		<a href="https://arxiv.org/pdf/2411.01747">[pdf]</a>
+		<br><i>Dang Nguyen, Viet Dac Lai, <u>Seunghyun Yoon</u>, Ryan A. Rossi, Handong Zhao, Ruiyi Zhang, Puneet Mathur, Nedim Lipka, Yu Wang, Trung Bui, Franck Dernoncourt, Tianyi Zhou</i>
+		<br><a href="https://colmweb.org/">COLM 2025</a>
+		<p>
+	</li>
+	<li>
+		<strong>A Survey on Long-Video Storytelling Generation: Architectures, Consistency, and Cinematic Quality</strong>
+		<a href="https://arxiv.org/pdf/2507.07202">[pdf]</a>
+		<br><i>Mohamed Elmoghany, Ryan Rossi, <u>Seunghyun Yoon</u>, Subhojyoti Mukherjee, Eslam Bakr, Puneet Mathur, Gang Wu, Viet Dac Lai, Nedim Lipka, Ruiyi Zhang, Varun Manjunatha, Chien Nguyen, Daksh Dangi, Abel Salinas, Mohammad Taesiri, Hongjie Chen, Xiaolei Huang, Joe Barrow, Nesreen Ahmed, Hoda Eldardiry, Namyong Park, Yu Wang, Jaemin Cho, Anh Totti Nguyen, Zhengzhong Tu, Thien Nguyen, Dinesh Manocha, Mohamed Elhoseiny, Franck Dernoncourt</i>
+		<br><a href="https://iccv.thecvf.com/">ICCV 2025 Workshop LongVid-Foundations</a>
+		<p>
+	</li>
+	<li>
+		<strong>HerO 2 for Efficient Fact Verification</strong>
+		<a href="https://aclanthology.org/2025.fever-1.16.pdf">[pdf]</a>
+		<br><i>Yejun Yoon, Jaeyoon Jung, <u>Seunghyun Yoon</u>, Kunwoo Park</i>
+		<br><a href="https://2025.aclweb.org/">ACL 2025 Workshop FEVER</a>
+		<p>
+	</li>
+	<li>
+		<strong>SlimLM: An Efficient Small Language Model for On-Device Document Assistance</strong>
+		<a href="https://aclanthology.org/2025.acl-demo.42/">[pdf]</a>
+		<br><i>Thang_M._Pham, Phat T. Nguyen, <u>Seunghyun Yoon</u>, Viet Dac Lai, Franck Dernoncourt, Trung Bui </i>
+		<br><a href="https://2025.aclweb.org/">ACL 2025 System Demonstrations</a>
+		<p>
+	</li>
+	<li>
 		<strong>From Selection to Generation: A Survey of LLM-based Active Learning</strong>
-		<a href="https://arxiv.org/pdf/2502.11767">[pdf]</a>
+		<a href="https://aclanthology.org/2025.acl-long.708/">[pdf]</a>
 		<br><i>Yu Xia, Subhojyoti Mukherjee, Zhouhang Xie, Junda Wu, Xintong Li, Ryan Aponte, Hanjia Lyu, Joe Barrow, Hongjie Chen, Franck Dernoncourt, Branislav Kveton, Tong Yu, Ruiyi Zhang, Jiuxiang Gu, Nesreen K. Ahmed, Yu Wang, Xiang Chen, Hanieh Deilamsalehy, Sungchul Kim, Zhengmian Hu, Yue Zhao, Nedim Lipka, <u>Seunghyun Yoon</u>, Ting-Hao Kenneth Huang, Zichao Wang, Puneet Mathur, Soumyabrata Pal, Koyel Mukherjee, Zhehao Zhang, Namyong Park, Thien Huu Nguyen, Jiebo Luo, Ryan A. Rossi, Julian McAuley</i>
 		<br><a href="https://2025.aclweb.org/">ACL 2025</a>
 		<p>
 	</li>
 	<li>
 		<strong>Hypothetical Documents or Knowledge Leakage? Rethinking LLM-based Query Expansion</strong>
-		<a href="https://arxiv.org/pdf/2504.14175">[pdf]</a>
+		<a href="https://aclanthology.org/2025.findings-acl.980.pdf">[pdf]</a>
 		<br><i>Yejun Yoon, Jaeyoon Jung, <u>Seunghyun Yoon</u>, Kunwoo Park</i>
 		<br><a href="https://2025.aclweb.org/">ACL 2025 Findings</a>
 		<p>
 	</li>
 	<li>
-		<strong>Click, Type, Repeat: A Comprehensive Survey on GUI Agents</strong>
-		<a href="https://arxiv.org/pdf/2412.13501">[pdf]</a>
+		<strong>GUI Agents: A Survey</strong>
+		<a href="https://aclanthology.org/2025.findings-acl.1158/">[pdf]</a>
 		<br><i>Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu, Junda Wu, Ryan Aponte, Yu Xia, Xintong Li, Jing Shi, Hongjie Chen, Viet Dac Lai, Zhouhang Xie, Sungchul Kim, Ruiyi Zhang, Tong Yu, Mehrab Tanjim, Nesreen K. Ahmed, Puneet Mathur, <u>Seunghyun Yoon</u>, Lina Yao, Branislav Kveton, Jihyung Kil, Thien Huu Nguyen, Trung Bui, Tianyi Zhou, Ryan A. Rossi, Franck Dernoncourt</i>
 		<br><a href="https://2025.aclweb.org/">ACL 2025 Findings</a>
 		<p>
 	</li>
 	<li>
 		<strong>Toward Robust Hyper-Detailed Image Captioning: A Multiagent Approach and Dual Evaluation Metrics for Factuality and Coverage</strong>
-		<a href="https://arxiv.org/abs/2412.15484">[pdf]</a>
+		<a href="https://openreview.net/pdf?id=REnIf3dCsI">[pdf]</a>
 		<a href="https://github.com/adobe-research/CapMAS">[code]</a>
 		<a href="https://huggingface.co/datasets/saehyungl/CapMAS/">[data]</a>
 		<br><i>Saehyung Lee, <u>Seunghyun Yoon</u>, Trung Bui, Jing Shi, Sungroh Yoon</i>
@@ -36,7 +71,7 @@
 	</li>
 	<li>
 		<strong>NoLiMa: Long-Context Evaluation Beyond Literal Matching</strong>
-		<a href="https://arxiv.org/abs/2502.05167">[pdf]</a>
+		<a href="https://openreview.net/pdf?id=0OshX1hiSa">[pdf]</a>
 		<a href="https://github.com/adobe-research/NoLiMa">[code]</a>
 		<br><i>Ali Modarressi, Hanieh Deilamsalehy, Franck Dernoncourt, Trung Bui, Ryan A. Rossi, <u>Seunghyun Yoon</u>, Hinrich Schuetze</i>
 		<br><a href="https://icml.cc/">ICML 2025</a>

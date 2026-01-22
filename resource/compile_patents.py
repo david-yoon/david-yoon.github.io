@@ -25,7 +25,10 @@ for index, row in df.iterrows():
             type_patent = row["Type"]
                     
             item += "<font color=lightblue>\n"
-            item += "  <h4>[ {} ]</h4>\n".format(row["Type"])
+            
+            item += "  <h4 style=\"color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: 0px;\"><strong>[{}]</strong></h4>\n".format(row["Type"])
+            
+            # item += "  <h4>[ {} ]</h4>\n".format(row["Type"])
             item += "</font>\n"
             item += "<ol reversed style=\"line-height:1.4em\">"
             item += "<font size=\"2\">"

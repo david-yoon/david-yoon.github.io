@@ -49,10 +49,10 @@ for index, row in df.iterrows():
     
     # add year
     if current_year != row["year"]:
-        item += "  <h4 style=\"color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px;\"><strong>[{}]</strong></h4>\n".format(row["year"])
+        item += "  <h4 style=\"color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: -25px;\"><strong>[{}]</strong></h4>\n".format(row["year"])
         current_year = row["year"]
 
-    item += "\t<li style=\"margin-left: 20px;\">\n"
+    item += "\t<li style=\"margin-left: 0px;\">\n"
 
     # add title
     item += "\t\t<strong>{}</strong>\n".format(row["title"])

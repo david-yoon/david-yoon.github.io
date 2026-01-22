@@ -10,7 +10,7 @@ item = ""
 body = ""
 body += '''<hr>
 <h3 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; display: inline-block;">Patents</h3>
-<div style="max-height: 500px; overflow-y: auto; padding-right: 10px;">
+<div style="max-height: 500px; overflow-y: auto; padding-right: 10px; border: 1px solid #e0e0e0; border-radius: 5px; background: #fafafa;">
 '''
 
 for index, row in df.iterrows():
@@ -26,21 +26,21 @@ for index, row in df.iterrows():
                     
             item += "<font color=lightblue>\n"
             
-            item += "  <h4 style=\"color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: 10px;\"><strong>[{}]</strong></h4>\n".format(row["Type"])
+            item += "  <h4 style=\"color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: 15px;\"><strong>[{}]</strong></h4>\n".format(row["Type"])
             
             # item += "  <h4>[ {} ]</h4>\n".format(row["Type"])
             item += "</font>\n"
             item += "<ol reversed style=\"line-height:1.4em\">"
             item += "<font size=\"2\">"
     
-        item += "\t<li>\n"
+        item += "\t<li style=\"margin-left: 15px;\">\n"
     
         # add issue
         if str(row["issued"]) == "1":
-            item += "\t\t[<font color=magenta>issued</font>]"
+            item += "\t<span style=\"background: linear-gradient(135deg, #3498db, #2980b9); color: white; padding: 2px 10px; border-radius: 12px; font-size: 11px; font-weight: bold; margin-right: 8px;\">ISSUED</span>"
     
         # add title
-        item += "\t\t<strong>{}</strong>\n".format(row["title"])
+        item += "<strong>{}</strong>\n".format(row["title"])
         print(row["title"])
     
         # add meta info

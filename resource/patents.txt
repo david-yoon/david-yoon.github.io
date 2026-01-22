@@ -4,7 +4,15 @@
   <h4>[  International Patents ]</h4>
 </font>
 <ol reversed style="line-height:1.4em"><font size="2">	<li>
+		[<font color=magenta>issued</font>]		<strong>Virtual knowledge graph construction for zero-shot domain-specific document retrieval</strong>
+		<a href="https://patents.google.com/patent/US12293577B2/en?oq=US+12%2c293%2c577">[link]</a>
+		<br><i>Yeon Seonwoo, <u>Seunghyun Yoon</u>, Trung Huu Bui, Franck Dernoncourt, Roger K. Brooks, Mihir Naware</i>
+		<br>US 12,332,939, 17-Jun-25
+		<p>
+	</li>
+	<li>
 		[<font color=magenta>issued</font>]		<strong>SYSTEMS AND METHODS FOR IMAGE PROCESSING USING NATURAL LANGUAGE</strong>
+		<a href="https://patents.google.com/patent/US12293577B2/en?oq=US+12%2c293%2c577">[link]</a>
 		<br><i>H Kim, DS Kim, <u>S Yoon</u>, F Dernoncourt, T Bui</i>
 		<br>US 12,293,577, 6-May-25
 		<p>

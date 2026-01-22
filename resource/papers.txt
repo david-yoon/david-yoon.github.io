@@ -1,19 +1,32 @@
 <hr>
 <h3>Publications</h3>
 <!--*denotes equal contribution.<br>-->
-<ol style="line-height:1.4em" reversed>
+<ul style="line-height:1.4em">
   <font size="2">
+  <h4><strong>[2026]</strong></h4>
+	<li>
+		<strong>Instruction Tuning with and without Context: Behavioral Shifts and Downstream Impact</strong>
+		<br><i>Hyunji Lee, <u>Seunghyun Yoon</u>, Yunjae Won, Hanseok Oh, Geewook Kim, Trung Bui, Franck Dernoncourt, Elias Stengel-Eskin, Mohit Bansal, Minjoon Seo</i>
+		<br><a href="https://2026.eacl.org/">EACL 2026</a>
+		<p>
+	</li>
+	<li>
+		<strong>A Survey on LLM-based Conversational User Simulation</strong>
+		<br><i>Bo Ni, Yu Wang, Leyao Wang, Branislav Kveton, Franck Dernoncourt, Yu Xia, Hongjie Chen, Reuben Luera, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Nesreen K. Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, Zichao Wang, <u>Seunghyun Yoon</u>, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, Tyler Derr, Ryan A. Rossi</i>
+		<br><a href="https://2026.eacl.org/">EACL 2026</a>
+		<p>
+	</li>
   <h4><strong>[2025]</strong></h4>
 	<li>
 		<strong>Program Synthesis via Test-Time Transduction</strong>
-		<a href="https://arxiv.org/pdf/2509.17393">[pdf]</a>
+		<a href="https://openreview.net/pdf?id=YJx8AofTF5">[pdf]</a>
 		<br><i>Kang-il_Lee , Jahyun Koo, <u>Seunghyun Yoon</u>, Minbeom Kim, Hyukhun Koh, Dongryeol Lee, Kyomin Jung</i>
 		<br><a href="https://neurips.cc/">NeurIPS 2025</a>
 		<p>
 	</li>
 	<li>
-		<strong>Learning to Clarify by Reinforcement Learning Through Reward-Weighted Fine-Tuning</strong>
-		<a href="https://arxiv.org/pdf/2506.06964">[pdf]</a>
+		<strong>Offline RL by Reward-Weighted Fine-Tuning for Conversation Optimization</strong>
+		<a href="https://openreview.net/pdf?id=WAFD6VYIEa">[pdf]</a>
 		<br><i>Subhojyoti Mukherjee, Viet Dac Lai, Raghavendra Addanki, Ryan A. Rossi, <u>Seunghyun Yoon</u>, Trung Bui, Anup Rao, Jayakumar Subramanian, Branislav Kveton</i>
 		<br><a href="https://neurips.cc/">NeurIPS 2025</a>
 		<p>
@@ -27,7 +40,7 @@
 	</li>
 	<li>
 		<strong>DynaSaur: Large Language Agents Beyond Predefined Actions</strong>
-		<a href="https://arxiv.org/pdf/2411.01747">[pdf]</a>
+		<a href="https://openreview.net/pdf?id=lv0cJ2pWVd">[pdf]</a>
 		<br><i>Dang Nguyen, Viet Dac Lai, <u>Seunghyun Yoon</u>, Ryan A. Rossi, Handong Zhao, Ruiyi Zhang, Puneet Mathur, Nedim Lipka, Yu Wang, Trung Bui, Franck Dernoncourt, Tianyi Zhou</i>
 		<br><a href="https://colmweb.org/">COLM 2025</a>
 		<p>

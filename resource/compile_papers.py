@@ -14,10 +14,11 @@ body = ""
 body += '''<hr>
 <h3>Publications</h3>
 <!--*denotes equal contribution.<br>-->
-<ol style="line-height:1.4em" reversed>
+<ul style="line-height:1.4em">
   <font size="2">
 '''
 
+# <ol style="line-height:1.4em" reversed>
 
 # body += '''<hr>
 # <h3>Publications</h3>

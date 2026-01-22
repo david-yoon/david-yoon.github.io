@@ -10,6 +10,7 @@ item = ""
 body = ""
 body += '''<hr>
 <h3>Patents</h3>
+<div style="max-height: 500px; overflow-y: auto; padding-right: 10px;">
 '''
 
 for index, row in df.iterrows():
@@ -59,6 +60,8 @@ for index, row in df.iterrows():
 body += item
 body += "  </font>\n"
 body += "</ol>\n"
+body += "</div>\n"
+
 
 # print(body)
 

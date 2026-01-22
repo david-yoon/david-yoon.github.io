@@ -10,36 +10,37 @@ rst_file = os.path.join(root_path, "data_papers.csv")
 
 df = pd.read_csv(rst_file)
 
-body = ""
-body += '''<hr>
-<h3>Publications</h3>
-<!--*denotes equal contribution.<br>-->
-<ul style="line-height:1.4em">
-  <font size="2">
-'''
-
-# <ol style="line-height:1.4em" reversed>
-
-# body += '''<hr>
-# <h3>Publications</h3>
-# <!--*denotes equal contribution.<br>-->
-#   <font size="2">
-# '''
-
-
 item = ""
 current_year = 0
 
 cnt_conference = 0
 cnt_workshop = 0
 cnt_journal = 0
+cnt_total = 0
 for index, row in df.iterrows():
+    if type(row["year"]) == float:
+        continue
+    cnt_total += 1
     if row["type"] == "conference":
         cnt_conference += 1
     elif row["type"] == "workshop":
         cnt_workshop += 1
     elif row["type"] == "journal":
         cnt_journal += 1
+
+body = ""
+body += '''<hr>
+<h3>Publications</h3>
+<!--*denotes equal contribution.<br>-->
+<style>
+  ol.publications {{ counter-reset: item {}; list-style-type: none; }}
+  ol.publications > li {{ counter-increment: item -1; }}
+  ol.publications > li::before {{ content: "[" counter(item) "] "; font-weight: bold; margin-right: 5px; }}
+</style>
+<div style="max-height: 1000px; overflow-y: auto; padding-right: 10px;">
+<ol class="publications" style="line-height:1.4em">
+  <font size="2">
+'''.format(cnt_total + 1)
 
 for index, row in df.iterrows():
 
@@ -48,27 +49,10 @@ for index, row in df.iterrows():
     
     # add year
     if current_year != row["year"]:
-        item += "  <h4><strong>[{}]</strong></h4>\n".format(row["year"])
+        item += "  <h4 style=\"color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px;\"><strong>[{}]</strong></h4>\n".format(row["year"])
         current_year = row["year"]
 
-    item += "\t<li>\n"
-
-    # # add type
-    # index_type = ""
-    # if row["type"] == "conference":
-    #     index_type = "[C{}] ".format(str(cnt_conference))
-    #     cnt_conference -= 1
-        
-    # elif row["type"] == "workshop":        
-    #     index_type = "[W{}] ".format(str(cnt_workshop))
-    #     cnt_workshop -= 1
-        
-    # elif row["type"] == "journal":
-    #     index_type = "[J{}] ".format(str(cnt_journal))
-    #     cnt_journal -= 1
-        
-
-    # item += index_type 
+    item += "\t<li style=\"margin-left: 20px;\">\n"
 
     # add title
     item += "\t\t<strong>{}</strong>\n".format(row["title"])
@@ -108,6 +92,7 @@ for index, row in df.iterrows():
 body += item
 body += "  </font>\n"
 body += "</ol>\n"
+body += "</div>\n"
 
 print(body)
 

@@ -9,7 +9,7 @@ type_patent = ""
 item = ""
 body = ""
 body += '''<hr>
-<h3>Patents</h3>
+<h3 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; display: inline-block;">Patents</h3>
 <div style="max-height: 500px; overflow-y: auto; padding-right: 10px;">
 '''
 
@@ -26,7 +26,7 @@ for index, row in df.iterrows():
                     
             item += "<font color=lightblue>\n"
             
-            item += "  <h4 style=\"color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: 0px;\"><strong>[{}]</strong></h4>\n".format(row["Type"])
+            item += "  <h4 style=\"color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: 10px;\"><strong>[{}]</strong></h4>\n".format(row["Type"])
             
             # item += "  <h4>[ {} ]</h4>\n".format(row["Type"])
             item += "</font>\n"

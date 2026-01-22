@@ -30,14 +30,15 @@ for index, row in df.iterrows():
 
 body = ""
 body += '''<hr>
-<h3>Publications</h3>
+<h3 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; display: inline-block;">Publications</h3>
 <!--*denotes equal contribution.<br>-->
 <style>
   ol.publications {{ counter-reset: item {}; list-style-type: none; }}
   ol.publications > li {{ counter-increment: item -1; }}
   ol.publications > li::before {{ content: "[" counter(item) "] "; font-weight: bold; margin-right: 5px; }}
 </style>
-<div style="max-height: 1000px; overflow-y: auto; padding-right: 10px;">
+<div style="max-height: 500px; overflow-y: auto; padding-right: 10px; border: 1px solid #e0e0e0; border-radius: 5px; background: #fafafa;">
+
 <ol class="publications" style="line-height:1.4em">
   <font size="2">
 '''.format(cnt_total + 1)
@@ -49,7 +50,7 @@ for index, row in df.iterrows():
     
     # add year
     if current_year != row["year"]:
-        item += "  <h4 style=\"color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: -25px;\"><strong>[{}]</strong></h4>\n".format(row["year"])
+        item += "  <h4 style=\"color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: -10px;\"><strong>[{}]</strong></h4>\n".format(row["year"])
         current_year = row["year"]
 
     item += "\t<li style=\"margin-left: 0px;\">\n"

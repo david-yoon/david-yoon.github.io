@@ -1,8 +1,8 @@
 <hr>
-<h3>Patents</h3>
+<h3 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; display: inline-block;">Patents</h3>
 <div style="max-height: 500px; overflow-y: auto; padding-right: 10px;">
 <font color=lightblue>
-  <h4 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: 0px;"><strong>[ International Patents]</strong></h4>
+  <h4 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: 10px;"><strong>[ International Patents]</strong></h4>
 </font>
 <ol reversed style="line-height:1.4em"><font size="2">	<li>
 		[<font color=magenta>issued</font>]		<strong>Virtual knowledge graph construction for zero-shot domain-specific document retrieval</strong>
@@ -133,7 +133,7 @@
   </font>
 </ol>
 <font color=lightblue>
-  <h4 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: 0px;"><strong>[Korean Patents]</strong></h4>
+  <h4 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: 10px;"><strong>[Korean Patents]</strong></h4>
 </font>
 <ol reversed style="line-height:1.4em"><font size="2">	<li>
 		[<font color=magenta>issued</font>]		<strong>Apparatus and method for evaluating sentense by using bidirectional language model</strong>

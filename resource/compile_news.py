@@ -40,8 +40,11 @@ body = '''<hr>
 
 <h3 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; display: inline-block;">News</h3>
 
+<style>
+  .news-list a { font-weight: bold; }
+</style>
 <div style="max-height: 300px; overflow-y: auto; padding: 10px; border: 1px solid #e0e0e0; border-radius: 5px; background: #fafafa;">
-<ul style="line-height:1.4em">
+<ul class="news-list" style="line-height:1.4em">
   <font size="2">
 '''
 

@@ -37,7 +37,7 @@ body += '''<hr>
   ol.publications > li {{ counter-increment: item -1; }}
   ol.publications > li::before {{ content: "[" counter(item) "] "; font-weight: bold; margin-right: 5px; }}
 </style>
-<div style="max-height: 500px; overflow-y: auto; padding-right: 10px; border: 1px solid #e0e0e0; border-radius: 5px; background: #fafafa;">
+<div style="max-height: 400px; overflow-y: auto; padding-right: 10px; border: 1px solid #e0e0e0; border-radius: 5px; background: #fafafa;">
 
 <ol class="publications" style="line-height:1.4em">
   <font size="2">
@@ -84,7 +84,7 @@ for index, row in df.iterrows():
 
     # add venue
     if type(row["conference"]) != float and str(row["conference"]).strip() != "0":    
-        item += "\t\t<br><a href=\"{}\">{}</a>\n".format(row["conference_url"], row["conference"])
+        item += "\t\t<br><a href=\"{}\" style=\"font-weight: bold;\">{}</a>\n".format(row["conference_url"], row["conference"])
 
     item += "\t\t<p>\n"
     item += "\t</li>\n"

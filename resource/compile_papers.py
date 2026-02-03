@@ -77,7 +77,7 @@ for index, row in df.iterrows():
 
     # add comment (e.g., oral presentation)
     if type(row["comment"]) != float and str(row["comment"]).strip() != "0":
-        item += "\t\t<br><font color=orange>({})</font>\n".format(row["comment"])
+        item += "\t\t<br><font color=red>({})</font>\n".format(row["comment"])
 
     # add authors
     item += "\t\t<br><i>{}</i>\n".format(row["authors"].replace("Seunghyun Yoon", "<u>Seunghyun Yoon</u>").replace("S Yoon", "<u>S Yoon</u>"))

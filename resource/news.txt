@@ -9,10 +9,12 @@
 <ul class="news-list" style="line-height:1.4em">
   <font size="2">
   <li>
+	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
 	[Jan-26]
-	Our team achieved <b>1st place</b> in the AVERITEC Shared Task hosted by <a href=https://2026.eacl.org/>EACL 2026</a> Workshop <a href=https://fever.ai/task.html>FEVER</a>.
+	Our team achieved <b>1st place</b> in the AVERITEC Shared Task at <a href=https://2026.eacl.org/>EACL 2026</a> Workshop <a href=https://fever.ai/task.html>FEVER</a>.
   </li>
   <li>
+	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
 	[Jan-26]
 	<b>Two papers</b> (LLM-VLM; Conversational User Simulation) are accepted to <a href=https://2026.eacl.org/>EACL 2026</a>.
   </li>

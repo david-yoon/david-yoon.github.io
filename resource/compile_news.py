@@ -28,9 +28,8 @@ NEW_BADGE = '<span style="background:rgb(246, 112, 97); color: white; padding: 2
 def is_within_6_months(date_str):
     """Check if the date has NOT passed 6 months (is recent)"""
     try:
-        parts = date_str.split("/")
-        m, y = int(parts[0]), int(parts[1])
-        entry_date = datetime(y, m, 1)
+        # Parse date format like "Jan-26" (Month abbreviation + 2-digit year)
+        entry_date = datetime.strptime(date_str, "%b-%y")
         return entry_date >= six_months_ago
     except:
         return False

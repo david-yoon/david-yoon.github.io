@@ -2,7 +2,7 @@
 <h3 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; display: inline-block;">Publications</h3>
 <!--*denotes equal contribution.<br>-->
 <style>
-  ol.publications { counter-reset: item 86; list-style-type: none; }
+  ol.publications { counter-reset: item 87; list-style-type: none; }
   ol.publications > li { counter-increment: item -1; }
   ol.publications > li::before { content: "[" counter(item) "] "; font-weight: bold; margin-right: 5px; }
 </style>
@@ -21,6 +21,13 @@
 		<strong>A Survey on LLM-based Conversational User Simulation</strong>
 		<br><i>Bo Ni, Yu Wang, Leyao Wang, Branislav Kveton, Franck Dernoncourt, Yu Xia, Hongjie Chen, Reuben Luera, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Nesreen K. Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, Zichao Wang, <u>Seunghyun Yoon</u>, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, Tyler Derr, Ryan A. Rossi</i>
 		<br><a href="https://2026.eacl.org/" style="font-weight: bold;">EACL 2026</a>
+		<p>
+	</li>
+	<li style="margin-left: 0px;">
+		<strong>VILLAIN at AVerImaTeC: Verifying Image–Text Claims via Multi-Agent Collaboration</strong>
+		<br><font color=orange>(1st place at the main challenge)</font>
+		<br><i>Jaeyoon_Jung , Yejun Yoon, <u>Seunghyun Yoon</u>, Kunwoo Park</i>
+		<br><a href="https://2026.eacl.org/" style="font-weight: bold;">EACL 2026 Workshop FEVER</a>
 		<p>
 	</li>
   <h4 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: -10px;"><strong>[2025]</strong></h4>
@@ -62,6 +69,7 @@
 	<li style="margin-left: 0px;">
 		<strong>HerO 2 for Efficient Fact Verification</strong>
 		<a href="https://aclanthology.org/2025.fever-1.16.pdf">[pdf]</a>
+		<br><font color=orange>(2nd place at the main challenge)</font>
 		<br><i>Yejun Yoon, Jaeyoon Jung, <u>Seunghyun Yoon</u>, Kunwoo Park</i>
 		<br><a href="https://2025.aclweb.org/" style="font-weight: bold;">ACL 2025 Workshop FEVER</a>
 		<p>

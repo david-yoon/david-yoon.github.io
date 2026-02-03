@@ -13,24 +13,33 @@ with open(data_file, "r", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     news_items = list(reader)
 
-# Current date and 4 months ago
-today = datetime.now()
-month = today.month - 4
-year = today.year
+# Find the latest news entry date as the base date
+def parse_date(date_str):
+    """Parse date format like 'Jan-26' (Month abbreviation + 2-digit year)"""
+    try:
+        return datetime.strptime(date_str.strip(), "%b-%y")
+    except:
+        return datetime.min
+
+latest_date = max(parse_date(item["date"]) for item in news_items)
+
+# Calculate N months before the latest entry
+month = latest_date.month - 3
+year = latest_date.year
 if month <= 0:
     month += 12
     year -= 1
-six_months_ago = datetime(year, month, 1)
+n_months_ago = datetime(year, month, 1)
 
 # NEW badge HTML
 NEW_BADGE = '<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>'
 
 def is_within_6_months(date_str):
-    """Check if the date has NOT passed 6 months (is recent)"""
+    """Check if the date has NOT passed 4 months (is recent)"""
     try:
         # Parse date format like "Jan-26" (Month abbreviation + 2-digit year)
         entry_date = datetime.strptime(date_str, "%b-%y")
-        return entry_date >= six_months_ago
+        return entry_date >= n_months_ago
     except:
         return False
 
@@ -71,4 +80,4 @@ output_file = os.path.join(root_path, "news.txt")
 with open(output_file, "w", encoding="utf-8") as f:
     f.write(body)
 
-print(f"News compiled! {len(news_items)} items. NEW badge for entries after {six_months_ago.strftime('%m/%Y')}.")
+print(f"News compiled! {len(news_items)} items. NEW badge for entries after {n_months_ago.strftime('%m/%Y')} (based on latest entry: {latest_date.strftime('%b-%y')}).")

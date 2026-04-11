@@ -2,7 +2,7 @@
 <h3 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; display: inline-block;">Publications</h3>
 <!--*denotes equal contribution.<br>-->
 <style>
-  ol.publications { counter-reset: item 87; list-style-type: none; }
+  ol.publications { counter-reset: item 91; list-style-type: none; }
   ol.publications > li { counter-increment: item -1; }
   ol.publications > li::before { content: "[" counter(item) "] "; font-weight: bold; margin-right: 5px; }
 </style>
@@ -12,19 +12,50 @@
   <font size="2">
   <h4 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: -10px;"><strong>[2026]</strong></h4>
 	<li style="margin-left: 0px;">
+		<strong>Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams</strong>
+		<a href="https://arxiv.org/pdf/2603.07392">[pdf]</a>
+		<br><i>Jiyeon_Kim, Hyunji Lee, Dylan Zhou, Sue Hyun Park, <u>Seunghyun Yoon</u>, Trung Bui, Franck Dernoncourt, Sungmin Cha, Minjoon Seo</i>
+		<br><a href="https://2026.aclweb.org/" style="font-weight: bold;">ACL 2026</a>
+		<p>
+	</li>
+	<li style="margin-left: 0px;">
+		<strong>MARCH: Evaluating the Intersection of Ambiguity Interpretation and Multi-hop Inference</strong>
+		<a href="https://arxiv.org/pdf/2509.22750">[pdf]</a>
+		<br><i>Jeonghyun_Park , Ingeol Baek, <u>Seunghyun Yoon</u>, Haeun Jang, Aparna Garimella, Akriti Jain, Nedim Lipka, Hwanhee Lee</i>
+		<br><a href="https://2026.aclweb.org/" style="font-weight: bold;">ACL 2026 findings</a>
+		<p>
+	</li>
+	<li style="margin-left: 0px;">
+		<strong>FIFA: Unified Faithfulness Evaluation Framework for Text-to-Video and Video-to-Text Generation</strong>
+		<a href="https://arxiv.org/pdf/2507.06523">[pdf]</a>
+		<br><i>Liqiang_Jing , Viet Dac Lai, <u>Seunghyun Yoon</u>, Trung Bui, Xinya Du</i>
+		<br><a href="https://2026.aclweb.org/" style="font-weight: bold;">ACL 2026 findings</a>
+		<p>
+	</li>
+	<li style="margin-left: 0px;">
+		<strong>Vision Language Models Learn to Assess Images with Specialists</strong>
+		<a href="https://openaccess.thecvf.com/content/WACV2026W/WVAQ/papers/V._Vision_Language_Models_Learn_to_Assess_Images_with_Specialists_WACVW_2026_paper.pdf">[pdf]</a>
+		<br><i>Quyet V. Do, <u>Seunghyun Yoon</u>, Ruiyi Zhang, Thiloshon Nagarajah, Trung Bui, Viet Dac Lai</i>
+		<br><a href="https://wacv.thecvf.com/" style="font-weight: bold;">WACV 2026</a>
+		<p>
+	</li>
+	<li style="margin-left: 0px;">
 		<strong>Instruction Tuning with and without Context: Behavioral Shifts and Downstream Impact</strong>
+		<a href="https://aclanthology.org/2026.eacl-long.320.pdf">[pdf]</a>
 		<br><i>Hyunji Lee, <u>Seunghyun Yoon</u>, Yunjae Won, Hanseok Oh, Geewook Kim, Trung Bui, Franck Dernoncourt, Elias Stengel-Eskin, Mohit Bansal, Minjoon Seo</i>
 		<br><a href="https://2026.eacl.org/" style="font-weight: bold;">EACL 2026</a>
 		<p>
 	</li>
 	<li style="margin-left: 0px;">
 		<strong>A Survey on LLM-based Conversational User Simulation</strong>
+		<a href="https://aclanthology.org/2026.eacl-long.200.pdf">[pdf]</a>
 		<br><i>Bo Ni, Yu Wang, Leyao Wang, Branislav Kveton, Franck Dernoncourt, Yu Xia, Hongjie Chen, Reuben Luera, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Nesreen K. Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, Zichao Wang, <u>Seunghyun Yoon</u>, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, Tyler Derr, Ryan A. Rossi</i>
 		<br><a href="https://2026.eacl.org/" style="font-weight: bold;">EACL 2026</a>
 		<p>
 	</li>
 	<li style="margin-left: 0px;">
 		<strong>VILLAIN at AVerImaTeC: Verifying Image–Text Claims via Multi-Agent Collaboration</strong>
+		<a href="https://aclanthology.org/2026.fever-1.9.pdf">[pdf]</a>
 		<br><font color=red>(1st place at the main challenge)</font>
 		<br><i>Jaeyoon_Jung , Yejun Yoon, <u>Seunghyun Yoon</u>, Kunwoo Park</i>
 		<br><a href="https://2026.eacl.org/" style="font-weight: bold;">EACL 2026 Workshop FEVER</a>
@@ -47,7 +78,7 @@
 	</li>
 	<li style="margin-left: 0px;">
 		<strong>FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge</strong>
-		<a href="https://arxiv.org/pdf/2502.19207">[pdf]</a>
+		<a href="https://aclanthology.org/2025.emnlp-main.657.pdf">[pdf]</a>
 		<br><i>Nakyeong Yang, Minsung Kim, <u>Seunghyun Yoon</u>, Joongbo Shin, Kyomin Jung</i>
 		<br><a href="https://2025.emnlp.org/" style="font-weight: bold;">EMNLP 2025</a>
 		<p>
@@ -61,7 +92,7 @@
 	</li>
 	<li style="margin-left: 0px;">
 		<strong>A Survey on Long-Video Storytelling Generation: Architectures, Consistency, and Cinematic Quality</strong>
-		<a href="https://arxiv.org/pdf/2507.07202">[pdf]</a>
+		<a href="https://openaccess.thecvf.com/content/ICCV2025W/LongVid-Foundation/papers/Elmoghany_A_Survey_on_Long-Video_Storytelling_Generation_Architectures_Consistency_and_Cinematic_ICCVW_2025_paper.pdf">[pdf]</a>
 		<br><i>Mohamed Elmoghany, Ryan Rossi, <u>Seunghyun Yoon</u>, Subhojyoti Mukherjee, Eslam Bakr, Puneet Mathur, Gang Wu, Viet Dac Lai, Nedim Lipka, Ruiyi Zhang, Varun Manjunatha, Chien Nguyen, Daksh Dangi, Abel Salinas, Mohammad Taesiri, Hongjie Chen, Xiaolei Huang, Joe Barrow, Nesreen Ahmed, Hoda Eldardiry, Namyong Park, Yu Wang, Jaemin Cho, Anh Totti Nguyen, Zhengzhong Tu, Thien Nguyen, Dinesh Manocha, Mohamed Elhoseiny, Franck Dernoncourt</i>
 		<br><a href="https://iccv.thecvf.com/" style="font-weight: bold;">ICCV 2025 Workshop LongVid-Foundations</a>
 		<p>

@@ -13,9 +13,13 @@ with open(data_file, "r", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     news_items = list(reader)
 
+# print(news_items)
+
+
 # Find the latest news entry date as the base date
 def parse_date(date_str):
     """Parse date format like 'Jan-26' (Month abbreviation + 2-digit year)"""
+    # """Parse date format like '26-Jan' (Month abbreviation + 2-digit year)"""
     try:
         return datetime.strptime(date_str.strip(), "%b-%y")
     except:

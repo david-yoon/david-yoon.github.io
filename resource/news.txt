@@ -10,6 +10,16 @@
   <font size="2">
   <li>
 	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
+	[Apr-26]
+	Three papers (longQA, multihopQA, Video Evaluation) are accepted to <a href=https://2026.aclweb.org/>ACL 2026</a>.
+  </li>
+  <li>
+	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
+	[Mar-26]
+	Our paper (VLM/Image editing) is accepted to <a href=https://wacv.thecvf.com//>WACV 2026</a>.
+  </li>
+  <li>
+	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
 	[Jan-26]
 	Our team achieved <b>1st place</b> in the AVERITEC Shared Task at <a href=https://2026.eacl.org/>EACL 2026</a> Workshop <a href=https://fever.ai/task.html>FEVER</a>.
   </li>
@@ -44,7 +54,7 @@
   </li>
   <li>
 	[Jan-25]
-	<b>Three papers</b> (QA
+	<b>Three papers</b> (QA Inductive Reasoning; LVLM) are accepted to <a href=https://2025.naacl.org/>NAACL 2025</a>.
   </li>
   <li>
 	[Jan-25]
@@ -79,11 +89,11 @@
 	One paper (Assessing News Thumbnail Representativeness) is accepted to <a href=https://2024.aclweb.org/>ACL 2024 Findings</a>.
   </li>
   <li>
-	[Mar-24]
+	[May-24]
 	One paper (Multilingual Representation for Semantic Retrieval) is accepted to <a href=https://sigir-2024.github.io/>SIGIR 2024</a>.
   </li>
   <li>
-	[Mar-24]
+	[May-24]
 	One paper (Explainable Image Classification) is accepted to <a href=https://2024.naacl.org/>NAACL 2024 Findings</a>.
   </li>
   <li>
@@ -175,7 +185,7 @@
 	Two papers (unreferenced metric for captioning; medical QU) are accepted to <a href=https://2021.aclweb.org/>ACL 2021</a>.
   </li>
   <li>
-	[Mar-21]
+	[May-21]
 	Our paper (QA+summarization) is accepted to <a href=https://aclweb.org/aclwiki/BioNLP_Workshop/>NAACL BioNLP 2021</a>.
   </li>
   <li>
@@ -283,11 +293,11 @@
 	One paper (multimodal speech emotion) is accepted to <a href=http://www.slt2018.org/>IEEE SLT 2018.</a>
   </li>
   <li>
-	[Aug-18]
+	[Oct-18]
 	One paper (abusive language) is accepted to <a href=http://emnlp2018.org/program/workshops/>EMNLP 2018 workshop on ALW2.</a>
   </li>
   <li>
-	[Aug-18]
+	[Dec-18]
 	I gave a talk at <a href=https://www.navercorp.com/en/>Naver</a>: <a href=https://youtu.be/ir-AqEaCn7Y>QA-pair ranking algorithm and its applications</a>
   </li>
   <li>

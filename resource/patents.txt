@@ -6,6 +6,20 @@
 </font>
 <ol reversed style="line-height:1.4em">
 <font size="2">	<li style="margin-left: 15px;">
+	<span style="background: linear-gradient(135deg, #3498db, #2980b9); color: white; padding: 2px 10px; border-radius: 12px; font-size: 11px; font-weight: bold; margin-right: 8px;">ISSUED</span><strong>Systems and methods for video summarization</strong>
+		<a href="https://patents.google.com/patent/US12563278B2/en?oq=12563278">[link]</a>
+		<br><i>Dawit Mureja Argaw, <u>Seunghyun Yoon</u>, Fabian David Caba Heilbron, Hanieh Deilamsalehy, Trung Huu Bui, Zhaowen Wang, Franck Dernoncourt</i>
+		<br>US 12,563,278, 24-Feb-26
+		<p>
+	</li>
+	<li style="margin-left: 15px;">
+	<span style="background: linear-gradient(135deg, #3498db, #2980b9); color: white; padding: 2px 10px; border-radius: 12px; font-size: 11px; font-weight: bold; margin-right: 8px;">ISSUED</span><strong>Multilingual semantic search utilizing meta-distillation learning</strong>
+		<a href="https://patents.google.com/patent/US12547901B2/en?oq=12%2c547%2c901">[link]</a>
+		<br><i>Meryem M'hamdi, <u>Seunghyun Yoon</u>, Franck Dernoncourt, Trung Bui</i>
+		<br>US 12,547,901, 10-Feb-26
+		<p>
+	</li>
+	<li style="margin-left: 15px;">
 	<span style="background: linear-gradient(135deg, #3498db, #2980b9); color: white; padding: 2px 10px; border-radius: 12px; font-size: 11px; font-weight: bold; margin-right: 8px;">ISSUED</span><strong>Virtual knowledge graph construction for zero-shot domain-specific document retrieval</strong>
 		<a href="https://patents.google.com/patent/US12293577B2/en?oq=US+12%2c293%2c577">[link]</a>
 		<br><i>Yeon Seonwoo, <u>Seunghyun Yoon</u>, Trung Huu Bui, Franck Dernoncourt, Roger K. Brooks, Mihir Naware</i>

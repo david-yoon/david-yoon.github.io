@@ -30,4 +30,4 @@ for file in target_data:
 with open("./index.html", "w") as f:
     f.write(main)
 
-print(main)
+print(f"Index compiled! Wrote index.html ({len(main)} chars from {len(target_data)} fragments).")

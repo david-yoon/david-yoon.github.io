@@ -14,7 +14,7 @@
                 // "--end_idx",
                 // "2"
             ],
-            "python": "/home/syoon/anaconda3/bin/python",         
+            "python": "/home/syoon/anaconda3/bin/python",
             "env": {
                 "PYTHONPATH": "$PYTHONPATH:/home/syoon/workspace/github/david-yoon.github.io/",
                 "PYTHONPATH": "$PYTHONPATH:/home/syoon/workspace/github/david-yoon.github.io/resource/"

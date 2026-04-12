@@ -50,7 +50,7 @@ body += '''<hr>
     box-shadow: 0 1px 2px rgba(44, 62, 80, 0.15);
   }}
 </style>
-<div style="max-height: 400px; overflow-y: auto; padding-right: 10px; border: 1px solid #e0e0e0; border-radius: 5px; background: #fafafa;">
+<div style="max-height: 600px; overflow-y: auto; padding-right: 10px; border: 1px solid #e0e0e0; border-radius: 5px; background: #fafafa;">
 
 <ol class="publications" style="line-height:1.4em">
   <font size="2">
@@ -86,19 +86,19 @@ for index, row in df.iterrows():
     # add meta info
     if type(row["meta_1"]) != float and str(row["meta_1"]).strip() != "0":
         item += "\t\t<a href=\"{}\">[{}]</a>\n".format(row["meta_1-url"], row["meta_1"])
-        print(row["meta_1"])
+        # print(row["meta_1"])
         
     if type(row["meta_2"]) != float and str(row["meta_2"]).strip() != "0":
         item += "\t\t<a href=\"{}\">[{}]</a>\n".format(row["meta_2-url"], row["meta_2"])
-        print(row["meta_2"])
+        # print(row["meta_2"])
         
     if type(row["meta_3"]) != float and str(row["meta_3"]).strip() != "0":
         item += "\t\t<a href=\"{}\">[{}]</a>\n".format(row["meta_3-url"], row["meta_3"])
-        print(row["meta_3"])
+        # print(row["meta_3"])
         
     if type(row["meta_4"]) != float and str(row["meta_4"]).strip() != "0":
         item += "\t\t<a href=\"{}\">[{}]</a>\n".format(row["meta_4-url"], row["meta_4"])
-        print(row["meta_4"])
+        # print(row["meta_4"])
 
     # add comment (e.g., oral presentation)
     if type(row["comment"]) != float and str(row["comment"]).strip() != "0":
@@ -119,7 +119,7 @@ body += "  </font>\n"
 body += "</ol>\n"
 body += "</div>\n"
 
-print(body)
+# print(body)
 
 
 output_file = os.path.join(root_path, "papers.txt")
@@ -127,3 +127,5 @@ output_file = os.path.join(root_path, "papers.txt")
 
 with open(output_file, "w") as f:
     f.write(body)
+
+print(f"Publications compiled! {cnt_total} papers written to papers.txt.")

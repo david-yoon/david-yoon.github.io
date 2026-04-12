@@ -19,7 +19,7 @@
     box-shadow: 0 1px 2px rgba(44, 62, 80, 0.15);
   }
 </style>
-<div style="max-height: 400px; overflow-y: auto; padding-right: 10px; border: 1px solid #e0e0e0; border-radius: 5px; background: #fafafa;">
+<div style="max-height: 600px; overflow-y: auto; padding-right: 10px; border: 1px solid #e0e0e0; border-radius: 5px; background: #fafafa;">
 
 <ol class="publications" style="line-height:1.4em">
   <font size="2">

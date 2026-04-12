@@ -41,7 +41,7 @@ for index, row in df.iterrows():
     
         # add title
         item += "<strong>{}</strong>\n".format(row["title"])
-        print(row["title"])
+        # print(row["title"])
     
         # add meta info
         if type(row["meta_1"]) != float and str(row["meta_1"]).strip() != "0":
@@ -71,3 +71,5 @@ body += "</div>\n"
 
 with open("patents.txt", "w") as f:
     f.write(body)
+
+print(f"Patents compiled! {len(df)} rows written to patents.txt.")

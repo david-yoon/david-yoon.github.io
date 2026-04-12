@@ -1,6 +1,6 @@
 
 
-target_data = ["./resource/into.txt",
+target_data = ["./resource/intro.txt",
                "./resource/bio.txt",
                "./resource/news.txt",
                "./resource/academy.txt",

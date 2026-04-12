@@ -11,7 +11,7 @@
   <li>
 	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
 	[Apr-26]
-	Three papers (longQA, multihopQA, Video Evaluation) are accepted to <a href=https://2026.aclweb.org/>ACL 2026</a>.
+	<b>Three papers</b> (longQA, multihopQA, Video Evaluation) are accepted to <a href=https://2026.aclweb.org/>ACL 2026</a>.
   </li>
   <li>
 	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>

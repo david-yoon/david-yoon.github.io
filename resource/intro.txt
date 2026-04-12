@@ -3,7 +3,7 @@
 <!--<font size="5"><strong>David Seunghyun Yoon </strong></font> <br>-->
 <br>
 <font size="3">
-	Research Scientist<br>
+	Senior Research Scientist<br>
     <a href="https://research.adobe.com/">Adobe Research</a>, San Jose, CA, US<br><br>
     <!--
     <strong>NLP Research Scientist</strong><br>

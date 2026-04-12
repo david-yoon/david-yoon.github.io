@@ -2,8 +2,7 @@ import pandas as pd
 import pathlib
 cur = pathlib.Path().resolve()
 
-# df = pd.read_csv(str(cur) + "/resource/data_patents.csv")
-df = pd.read_csv(str(cur) + "/data_patents.csv")
+df = pd.read_excel(str(cur) + "/data_patents.xls", dtype=str).fillna("")
 
 type_patent = ""
 item = ""

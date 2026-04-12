@@ -206,7 +206,7 @@
 		<strong>Domain-specific Question Answering with Hybrid Search</strong>
 		<a href="https://arxiv.org/pdf/2412.03736">[pdf]</a>
 		<br><i>Dewang Sultania, Zhaoyu Lu, Twisha Naik, Franck Dernoncourt, <u>Seunghyun Yoon</u>, Sanat Sharma, Trung Bui, Ashok Gupta, Tushar Vatsa, Suhas Suresha, Ishita Verma, Vibha Belavadi, Cheng Chen, Michael Friedrich</i>
-		<br><a href="nan" style="font-weight: bold;">AAAI 2025  Workshop Document Understanding and Intelligence</a>
+		<br><a href="" style="font-weight: bold;">AAAI 2025  Workshop Document Understanding and Intelligence</a>
 		<p>
 	</li>
   <h4 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: -10px;"><strong>[2024]</strong><span class="pub-year-count" title="15 publications this year">15</span></h4>
@@ -703,9 +703,9 @@
 	</li>
 	<li style="margin-left: 0px;">
 		<strong>Domain Question Answering System</strong>
-		<a href="nan">[pdf]</a>
+		<a href="">[pdf]</a>
 		<br><i><u>S Yoon</u>, E Rhim, D Kim</i>
-		<br><a href="nan" style="font-weight: bold;">KIISE Transactions on Computing Practices 2015</a>
+		<br><a href="" style="font-weight: bold;">KIISE Transactions on Computing Practices 2015</a>
 		<p>
 	</li>
 	<li style="margin-left: 0px;">

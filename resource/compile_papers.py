@@ -6,9 +6,27 @@ cur = pathlib.Path().resolve()
 
 fn = getattr(sys.modules['__main__'], '__file__')
 root_path = os.path.abspath(os.path.dirname(fn))
-rst_file = os.path.join(root_path, "data_papers.csv")
+rst_file = os.path.join(root_path, "data_papers.xls")
 
-df = pd.read_csv(rst_file)
+df = pd.read_excel(rst_file, dtype=str).fillna("")
+
+
+def _has_year(y):
+    """True if row has a non-empty year (Excel uses strings; CSV may use NaN)."""
+    if y is None:
+        return False
+    if isinstance(y, float) and pd.isna(y):
+        return False
+    return bool(str(y).strip())
+
+
+def _cell_active(val):
+    """Non-empty optional cell; '0' means omitted."""
+    if isinstance(val, float) and pd.isna(val):
+        return False
+    s = str(val).strip()
+    return bool(s) and s != "0"
+
 
 item = ""
 current_year = 0
@@ -18,7 +36,7 @@ cnt_workshop = 0
 cnt_journal = 0
 cnt_total = 0
 for index, row in df.iterrows():
-    if type(row["year"]) == float:
+    if not _has_year(row["year"]):
         continue
     cnt_total += 1
     if row["type"] == "conference":
@@ -56,15 +74,11 @@ body += '''<hr>
   <font size="2">
 '''.format(cnt_total + 1)
 
-year_counts = (
-    df[df["year"].map(lambda y: type(y) != float)]["year"]
-    .value_counts()
-    .to_dict()
-)
+year_counts = df[df["year"].map(_has_year)]["year"].value_counts().to_dict()
 
 for index, row in df.iterrows():
 
-    if type(row["year"]) == float:
+    if not _has_year(row["year"]):
         continue
 
     if current_year != row["year"]:
@@ -84,31 +98,31 @@ for index, row in df.iterrows():
     item += "\t\t<strong>{}</strong>\n".format(row["title"])
 
     # add meta info
-    if type(row["meta_1"]) != float and str(row["meta_1"]).strip() != "0":
+    if _cell_active(row["meta_1"]):
         item += "\t\t<a href=\"{}\">[{}]</a>\n".format(row["meta_1-url"], row["meta_1"])
         # print(row["meta_1"])
         
-    if type(row["meta_2"]) != float and str(row["meta_2"]).strip() != "0":
+    if _cell_active(row["meta_2"]):
         item += "\t\t<a href=\"{}\">[{}]</a>\n".format(row["meta_2-url"], row["meta_2"])
         # print(row["meta_2"])
         
-    if type(row["meta_3"]) != float and str(row["meta_3"]).strip() != "0":
+    if _cell_active(row["meta_3"]):
         item += "\t\t<a href=\"{}\">[{}]</a>\n".format(row["meta_3-url"], row["meta_3"])
         # print(row["meta_3"])
         
-    if type(row["meta_4"]) != float and str(row["meta_4"]).strip() != "0":
+    if _cell_active(row["meta_4"]):
         item += "\t\t<a href=\"{}\">[{}]</a>\n".format(row["meta_4-url"], row["meta_4"])
         # print(row["meta_4"])
 
     # add comment (e.g., oral presentation)
-    if type(row["comment"]) != float and str(row["comment"]).strip() != "0":
+    if _cell_active(row["comment"]):
         item += "\t\t<br><font color=red>({})</font>\n".format(row["comment"])
 
     # add authors
     item += "\t\t<br><i>{}</i>\n".format(row["authors"].replace("Seunghyun Yoon", "<u>Seunghyun Yoon</u>").replace("S Yoon", "<u>S Yoon</u>"))
 
     # add venue
-    if type(row["conference"]) != float and str(row["conference"]).strip() != "0":    
+    if _cell_active(row["conference"]):    
         item += "\t\t<br><a href=\"{}\" style=\"font-weight: bold;\">{}</a>\n".format(row["conference_url"], row["conference"])
 
     item += "\t\t<p>\n"

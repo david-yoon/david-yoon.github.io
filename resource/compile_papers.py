@@ -54,27 +54,12 @@ body += '''<hr>
   ol.publications {{ counter-reset: item {}; list-style-type: none; }}
   ol.publications > li {{ counter-increment: item -1; }}
   ol.publications > li::before {{ content: "[" counter(item) "] "; font-weight: bold; margin-right: 5px; }}
-  .pub-year-count {{
-    display: inline-block;
-    margin-left: 10px;
-    padding: 2px 10px;
-    border-radius: 12px;
-    font-size: 11px;
-    font-weight: bold;
-    line-height: 1.35;
-    vertical-align: middle;
-    color: #fff;
-    background: linear-gradient(135deg, #3498db, #2980b9);
-    box-shadow: 0 1px 2px rgba(44, 62, 80, 0.15);
-  }}
 </style>
-<div style="max-height: 600px; overflow-y: auto; padding-right: 10px; border: 1px solid #e0e0e0; border-radius: 5px; background: #fafafa;">
+<div style="max-height: 450px; overflow-y: auto; padding-right: 10px; border: 1px solid #e0e0e0; border-radius: 5px; background: #fafafa;">
 
 <ol class="publications" style="line-height:1.4em">
   <font size="2">
 '''.format(cnt_total + 1)
-
-year_counts = df[df["year"].map(_has_year)]["year"].value_counts().to_dict()
 
 for index, row in df.iterrows():
 
@@ -82,14 +67,10 @@ for index, row in df.iterrows():
         continue
 
     if current_year != row["year"]:
-        n_year = year_counts[row["year"]]
-        pub_label = "publication" if n_year == 1 else "publications"
         item += (
             "  <h4 style=\"color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: -10px;\">"
-            "<strong>[{}]</strong>"
-            "<span class=\"pub-year-count\" title=\"{} {} this year\">{}</span>"
-            "</h4>\n"
-        ).format(row["year"], n_year, pub_label, n_year)
+            "<strong>[{}]</strong></h4>\n"
+        ).format(row["year"])
         current_year = row["year"]
 
     item += "\t<li style=\"margin-left: 0px;\">\n"

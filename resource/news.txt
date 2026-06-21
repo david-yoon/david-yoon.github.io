@@ -10,26 +10,23 @@
   <font size="2">
   <li>
 	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
+	[2026-06]
+	Our paper (Image Captioining) is accepted to <a href=https://eccv.ecva.net/>ECCV 2026</a>.
+  </li>
+  <li>
+	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
 	[2026-04]
 	<b>Three papers</b> (longQA, multihopQA, Video Evaluation) are accepted to <a href=https://2026.aclweb.org/>ACL 2026</a>.
   </li>
   <li>
-	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
-	[2026-02]
-	Our paper (video understanding) is accepted to <a href=https://cvpr.thecvf.com/>CVPR 2026</a>.
-  </li>
-  <li>
-	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
-	[2026-02]
+	[2026-01]
 	Our paper (VLM/Image editing) is accepted to <a href=https://wacv.thecvf.com//>WACV 2026</a>.
   </li>
   <li>
-	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
 	[2026-01]
 	Our team achieved <b>1st place</b> in the AVERITEC Shared Task at <a href=https://2026.eacl.org/>EACL 2026</a> Workshop <a href=https://fever.ai/task.html>FEVER</a>.
   </li>
   <li>
-	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
 	[2026-01]
 	<b>Two papers</b> (LLM-VLM; Conversational User Simulation) are accepted to <a href=https://2026.eacl.org/>EACL 2026</a>.
   </li>
@@ -66,7 +63,6 @@
 	<b>Two papers</b> (Text to ReLighting (main) and Domain specific QA (workshop)) are accepted to <a href=https://2024.emnlp.org/>AAAI 2025</a>.
   </li>
   <li>
-	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
 	[2025-12]
 	I gave a talk at <a href=https://en.snu.ac.kr/index.html>SNU</a>: Capability of Vision and Language Model for <b>AI for Social Good</b>
   </li>

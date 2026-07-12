@@ -1,10 +1,14 @@
-    
+
 <hr>
 
-<h3>Academic Activities</h3>
+<h3 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; display: inline-block;">Academic Activities</h3>
+
+
+<div style="max-height: 350px; overflow-y: auto; padding-right: 10px; border: 1px solid #e0e0e0; border-radius: 5px; background: #fafafa;">
 <ul style="line-height:1.4em">
-  <li>	  
-	  <strong><font color=darkblue>Service: </font></strong> <br>
+  <font size="2">
+  <li>
+	  <strong><font color=darkblue>Services: </font></strong> <br>
     <strong>Area Chair (Industry)</strong>: <a href="https://2026.emnlp.org/">EMNLP 2026</a> <br>
     <strong>Area Chair</strong>: <a href="https://colmweb.org/">COLM 2026</a> <br>
     <strong>Area Chair (Industry)</strong>: <a href="https://2026.aclweb.org/">ACL 2026</a> <br>
@@ -37,7 +41,7 @@
 	Jul. 2018 <br>
 	<br>
   </li>
-  <li><font size="2">
+  <li>
 	<strong><font color=darkblue>Teaching Assistant: </font></strong> <br>
 	Programming Methodology, Seoul National University, Spring 2018 <br>
 	Machine Learning, Seoul National University, Fall 2015 <br>
@@ -46,3 +50,4 @@
   </li>
   </font>
 </ul>
+</div>

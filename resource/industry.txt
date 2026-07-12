@@ -1,6 +1,8 @@
 <hr>
 
-<h3>Industrial Highlights</h3>
+<h3 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; display: inline-block;">Industrial Highlights</h3>
+
+
 <style>
 .icon {
   display: inline-block !important;
@@ -40,6 +42,6 @@
   </li>
   <li>
     <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/firefly.svg" class="icon" />
-    <a href="https://firefly.adobe.com/">AImage Caption</a> in Firefly, 2024
+    <a href="https://firefly.adobe.com/">Image Caption</a> in Firefly, 2024
   </li>
 </ul>

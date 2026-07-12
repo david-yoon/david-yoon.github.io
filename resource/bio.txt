@@ -1,7 +1,7 @@
 
 <hr>
 <p>
-I am a Senior Research Scientist at Adobe Research, with a focus on <strong>natural language processing (NLP)</strong> and <strong>multimodal understanding</strong>. My work centers on advancing the comprehension of long-form text for question answering systems and improving factual consistency in large language and vision-language models (LLMs/VLLMs). I am also interested in bridging NLP with other disciplines to address real-world challenges, particularly through applications that promote social good.
+I am a Senior Research Scientist at Adobe Research, with a focus on <strong>multimodal understanding</strong> and <strong>natural language processing (NLP)</strong>. My work centers on advancing the comprehension of long-form text for question answering systems and improving factual consistency in large language and vision-language models (LLMs/VLLMs). I am also interested in bridging NLP with other disciplines to address real-world challenges, particularly through applications that promote social good.
     
 <p> I received my Ph.D. in Electrical and Computer Engineering from Seoul National University in 2020 with the Distinguished Dissertation Award, where I was fortunate to be advised by <a href="http://milab.snu.ac.kr/kjung/index.html" title="Kyomin Jung">Dr. Kyomin Jung</a>.    
 Prior to Seoul National University, I had involved critical initiatives for the engineering and innovation of AI and machine learning while I was a staff software engineer at Samsung Research Artificial Intelligence Center (2006-2017).

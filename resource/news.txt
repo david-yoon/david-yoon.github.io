@@ -11,6 +11,11 @@
   <li>
 	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
 	[2026-06]
+	AI Assistant has lunched for Photoshop Web
+  </li>
+  <li>
+	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
+	[2026-06]
 	Our paper (Image Captioining) is accepted to <a href=https://eccv.ecva.net/>ECCV 2026</a>.
   </li>
   <li>

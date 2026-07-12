@@ -31,20 +31,7 @@ def _cell_active(val):
 item = ""
 current_year = 0
 
-cnt_conference = 0
-cnt_workshop = 0
-cnt_journal = 0
-cnt_total = 0
-for index, row in df.iterrows():
-    if not _has_year(row["year"]):
-        continue
-    cnt_total += 1
-    if row["type"] == "conference":
-        cnt_conference += 1
-    elif row["type"] == "workshop":
-        cnt_workshop += 1
-    elif row["type"] == "journal":
-        cnt_journal += 1
+cnt_total = sum(1 for _, row in df.iterrows() if _has_year(row["year"]))
 
 body = ""
 body += '''<hr>

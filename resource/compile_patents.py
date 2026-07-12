@@ -1,8 +1,11 @@
+import os
+import sys
 import pandas as pd
-import pathlib
-cur = pathlib.Path().resolve()
 
-df = pd.read_excel(str(cur) + "/data_patents.xls", dtype=str).fillna("")
+fn = getattr(sys.modules['__main__'], '__file__')
+root_path = os.path.abspath(os.path.dirname(fn))
+
+df = pd.read_excel(os.path.join(root_path, "data_patents.xls"), dtype=str).fillna("")
 
 type_patent = ""
 item = ""
@@ -55,8 +58,9 @@ for index, row in df.iterrows():
         item += "\t\t<p>\n"
         item += "\t</li>\n"
         
-    except:
-        continue;
+    except Exception as e:
+        print(f"Skipping row {index} ({row.get('title', '')!r}): {e}")
+        continue
 
 
 body += item
@@ -68,7 +72,9 @@ body += "</div>\n"
 # print(body)
 
 
-with open("patents.txt", "w") as f:
+output_file = os.path.join(root_path, "patents.txt")
+
+with open(output_file, "w") as f:
     f.write(body)
 
 print(f"Patents compiled! {len(df)} rows written to patents.txt.")

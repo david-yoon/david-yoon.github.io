@@ -26,4 +26,3 @@
 	Samsung Electronics (Seoul, KR),
 	Spring 2011 
   </li></font></ul>
-</ol>

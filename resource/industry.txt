@@ -1,0 +1,45 @@
+<hr>
+
+<h3>Industrial Highlights</h3>
+<style>
+.icon {
+  display: inline-block !important;
+  width: auto !important;
+  height: 19px;
+  margin: 0 !important;
+  vertical-align: text-bottom;
+}
+.highlights-list {
+  font-size: 0.85em;
+  line-height: 1.6em;
+  list-style: disc;
+  margin-left: 1.2em;
+  padding-left: 0.5em;
+  text-align: left;
+}
+.highlights-list li {
+  margin-bottom: 2px;
+}
+</style>
+<ul class="highlights-list">
+  <li>
+    <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop.svg" class="icon" />
+    <a href="#">AI Assistant</a> in Photoshop Web, 2026
+  </li>
+  <li>
+    <img src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Web_Logo.svg" class="icon" />
+    <a href="https://www.youtube.com/live/wQza2t9Qs64?si=cJSwgDwzHvoJ8Gm4&t=2588">AI Assistant</a> at Adobe MAX, 2025
+  </li>
+  <li>
+    <img src="https://d1m7xqcjsyl4c0.cloudfront.net/assets/webp/wonder-icon.CG9rAyS6.webp" class="icon" />
+    <a href="https://aqua.adobe.com/">VLM model</a> in Aqua, 2025
+  </li>
+  <li>
+    <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/behance.svg" class="icon" />
+    <a href="https://www.behance.net/">Auto Image Caption</a> in Behance, 2025
+  </li>
+  <li>
+    <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/firefly.svg" class="icon" />
+    <a href="https://firefly.adobe.com/">AImage Caption</a> in Firefly, 2024
+  </li>
+</ul>

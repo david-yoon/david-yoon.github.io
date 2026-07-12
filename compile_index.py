@@ -3,6 +3,7 @@
 target_data = ["./resource/intro.txt",
                "./resource/bio.txt",
                "./resource/news.txt",
+               "./resource/industry.txt",
                "./resource/academy.txt",
                "./resource/professional.txt",
                "./resource/papers.txt",

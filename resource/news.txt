@@ -318,6 +318,7 @@
 	[2018-01]
 	One paper is accepted to <a href=http://www.bigcomputing.org/>IEEE BigComp 2018.</a>
   </li>
+  </font>
 </ul>
 </div>
 

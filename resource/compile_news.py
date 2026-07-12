@@ -99,7 +99,8 @@ for item in news_items:
     body += f"\t{content}\n"
     body += "  </li>\n"
 
-body += '''</ul>
+body += '''  </font>
+</ul>
 </div>
 
 <!-- <a href="{{ site.baseurl }}/news.html">history</a> -->'''

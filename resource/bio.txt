@@ -1,10 +1,15 @@
 
 <hr>
 <p>
-I am a Senior Research Scientist at Adobe Research, with a focus on <strong>multimodal understanding</strong> and <strong>natural language processing (NLP)</strong>. My work centers on advancing the comprehension of long-form text for question answering systems and improving factual consistency in large language and vision-language models (LLMs/VLLMs). I am also interested in bridging NLP with other disciplines to address real-world challenges, particularly through applications that promote social good.
+David is a Senior Research Scientist at Adobe Research, specializing in <strong>multimodal understanding</strong> and <strong>natural language processing (NLP)</strong>. His research focuses on advancing long-form text understanding for question answering systems and improving the factual consistency of large language and vision-language models (LLMs/VLMs). More broadly, David is interested in developing AI technologies that address real-world challenges, with a particular emphasis on applications that promote social good.
     
-<p> I received my Ph.D. in Electrical and Computer Engineering from Seoul National University in 2020 with the Distinguished Dissertation Award, where I was fortunate to be advised by <a href="http://milab.snu.ac.kr/kjung/index.html" title="Kyomin Jung">Dr. Kyomin Jung</a>.    
-Prior to Seoul National University, I had involved critical initiatives for the engineering and innovation of AI and machine learning while I was a staff software engineer at Samsung Research Artificial Intelligence Center (2006-2017).
+<p> 
+<p>
+    David received his Ph.D. in Electrical and Computer Engineering from Seoul National University in 2020, where he was honored with the Distinguished Dissertation Award. During his doctoral studies, he was advised by <a href="http://milab.snu.ac.kr/kjung/index.html" title="Kyomin Jung">Dr. Kyomin Jung</a>.
+</p>
+<p>
+    Prior to pursuing his Ph.D., David worked as a Staff Software Engineer at the Samsung Research Artificial Intelligence Center from 2006 to 2017. During his tenure, he led and contributed to key initiatives in the engineering and innovation of artificial intelligence and machine learning.
+</p>
 
 
 <!--

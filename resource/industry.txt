@@ -29,6 +29,14 @@
     <a href="#">AI Assistant</a> in Photoshop Web, 2026
   </li>
   <li>
+    <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/indesign.svg" class="icon" />
+    <a href="https://helpx.adobe.com/indesign/desktop/generative-ai-features/use-ai-assistant.html">AI Assistant (Beta)</a> in InDesign, 2026
+  </li>
+  <li>
+    <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator.svg" class="icon" />
+    <a href="https://helpx.adobe.com/illustrator/desktop/use-ai-assistant/about-using-ai-assistant-in-illustrator.html">AI Assistant (Beta)</a> in Illustrator, 2026
+  </li>
+  <li>
     <img src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Web_Logo.svg" class="icon" />
     <a href="https://www.youtube.com/live/wQza2t9Qs64?si=cJSwgDwzHvoJ8Gm4&t=2588">AI Assistant</a> at Adobe MAX, 2025
   </li>

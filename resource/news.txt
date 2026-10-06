@@ -10,6 +10,11 @@
   <font size="2">
   <li>
 	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
+	[2026-10]
+	Three papers (VideoQA, LinearViT, Dialogue) are accepted to <a href=https://neurips.cc/>NeurIPS 2026</a>.
+  </li>
+  <li>
+	<span style="background:rgb(246, 112, 97); color: white; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: bold;">NEW</span>
 	[2026-09]
 	Two papers (LLM hallucination, personalization) are accepted to <a href=https://2026.aaclnet.org/>AACL 2026</a>.
   </li>

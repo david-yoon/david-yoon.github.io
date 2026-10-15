@@ -2,7 +2,7 @@
 <h3 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; display: inline-block;">Publications</h3>
 <!--*denotes equal contribution.<br>-->
 <style>
-  ol.publications { counter-reset: item 99; list-style-type: none; }
+  ol.publications { counter-reset: item 100; list-style-type: none; }
   ol.publications > li { counter-increment: item -1; }
   ol.publications > li::before { content: "[" counter(item) "] "; font-weight: bold; margin-right: 5px; }
 </style>
@@ -10,6 +10,13 @@
 
 <ol class="publications" style="line-height:1.4em">
   <font size="2">
+  <h4 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: -10px;"><strong>[2027]</strong></h4>
+	<li style="margin-left: 0px;">
+		<strong>Generative Event Retiming: Context-Preserving Event-Time Control in Video</strong>
+		<br><i>Xiangbo_Gao , Li Li, Yidong Huang, Bo Ni, Samyadeep Basu, <u>Seunghyun Yoon</u>, Tyler Derr, Xiaolei Huang, Yu Wang, Thien Huu Nguyen, Yue Zhao, Zhengzhong Tu, Franck Dernoncourt</i>
+		<br><a href="https://wacv.thecvf.com/" style="font-weight: bold;">WACV 2027</a>
+		<p>
+	</li>
   <h4 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 20px; margin-left: -10px;"><strong>[2026]</strong></h4>
 	<li style="margin-left: 0px;">
 		<strong>When Attention Closes: How LLMs Lose the Thread in Multi-Turn Interaction</strong>
